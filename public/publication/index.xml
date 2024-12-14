@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,19 +13,107 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Selfrionette: A fingertip force-input controller for continuous full-body avatar manipulation and diverse haptic interactions</title>
+      <link>http://localhost:1313/publication/hashimoto-2024-dl/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashimoto-2024-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Dimensions of Physical Properties of Handheld Objects Induced by Impedance Changes</title>
+      <link>http://localhost:1313/publication/hashimoto-2023-dw/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashimoto-2023-dw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement</title>
+      <link>http://localhost:1313/publication/hashimoto-2023-ah/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashimoto-2023-ah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object with Weight Shifting VR Controller by Computational Perception Model</title>
+      <link>http://localhost:1313/publication/shigeyama-2022-gw/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2022-gw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control</title>
+      <link>http://localhost:1313/publication/hashimoto-2022-af/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashimoto-2022-af/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
+      <link>http://localhost:1313/publication/shimizu-2021-df/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shimizu-2021-df/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
+      <link>http://localhost:1313/publication/liu-2019-mu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2019-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
+      <link>http://localhost:1313/publication/shigeyama-2019-jq/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2019-jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects</title>
+      <link>http://localhost:1313/publication/shigeyama-2019-nd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2019-nd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of pseudo-haptic feedback on touchscreens on visual memory during image browsing</title>
+      <link>http://localhost:1313/publication/hashimoto-2018-nt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashimoto-2018-nt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: dynamic 2D haptic shape illusion of virtual object by weight moving VR controller</title>
+      <link>http://localhost:1313/publication/shigeyama-2018-up/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2018-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
+      <link>http://localhost:1313/publication/shigeyama-2018-ww/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2018-ww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magic table: deformable props using visuo haptic redirection</title>
+      <link>http://localhost:1313/publication/matsumoto-2017-wi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/matsumoto-2017-wi/</guid>
+      <description></description>
     </item>
     
     <item>

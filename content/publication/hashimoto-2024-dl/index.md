@@ -2,8 +2,13 @@
 title: 'Selfrionette: A fingertip force-input controller for continuous full-body
   avatar manipulation and diverse haptic interactions'
 authors:
-- Takeru Hashimoto
+- admin
 - Yutaro Hirao
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: '2024-10-01'
 publishDate: '2024-12-14T03:43:09.808821Z'
 publication_types:

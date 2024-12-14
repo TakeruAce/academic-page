@@ -1,13 +1,15 @@
 ---
-title: 'Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering
-  based on Computational Perception Model'
+title: 'Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model'
 authors:
 - Jotaro Shigeyama
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Takuji Narumi
 - Tomohiro Tanikawa
 - Michitaka Hirose
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2019-05-01'
 publishDate: '2024-12-14T03:43:09.796088Z'
 publication_types:

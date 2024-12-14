@@ -3,7 +3,7 @@ title: 'Unident: Providing Impact Sensations on Handheld Objects via High-Speed 
   of the Rotational Inertia'
 authors:
 - Shuntaro Shimizu
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Reo Matsumura
 - Takuji Narumi

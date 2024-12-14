@@ -2,7 +2,7 @@
 title: 'MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties
   through Rotational Impedance Control'
 authors:
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Takuji Narumi
 date: '2022-10-01'

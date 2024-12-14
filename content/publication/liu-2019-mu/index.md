@@ -3,7 +3,7 @@ title: 'ShapeSense: a 2D shape rendering VR device with moving surfaces that con
   mass properties and air resistance'
 authors:
 - Yuhu Liu
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Takuji Narumi
 - Tomohiro Tanikawa

@@ -2,7 +2,7 @@
 title: Perceptual Dimensions of Physical Properties of Handheld Objects Induced by
   Impedance Changes
 authors:
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Takuji Narumi
 date: '2023-12-01'

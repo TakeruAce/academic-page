@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Reality | Takeru Hashimoto Web Page</title>
+    <link>http://localhost:1313/tags/virtual-reality/</link>
+      <atom:link href="http://localhost:1313/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virtual Reality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Virtual Reality</title>
+      <link>http://localhost:1313/tags/virtual-reality/</link>
+    </image>
+    
+    <item>
+      <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
+      <link>http://localhost:1313/publication/liu-2019-mu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2019-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
+      <link>http://localhost:1313/publication/shigeyama-2019-jq/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shigeyama-2019-jq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

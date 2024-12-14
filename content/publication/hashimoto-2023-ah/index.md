@@ -2,7 +2,7 @@
 title: 'SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via
   Modifying Acceleration of Body Movement'
 authors:
-- Takeru Hashimoto
+- admin
 - Shigeo Yoshida
 - Takuji Narumi
 date: '2023-07-01'

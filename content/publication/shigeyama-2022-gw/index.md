@@ -3,8 +3,7 @@ title: 'Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual O
   with Weight Shifting VR Controller by Computational Perception Model'
 authors:
 - Jotaro Shigeyama
-- Takeru Hashimoto
-- Shigeo Yoshida
+- admin
 - Takuji Narumi
 - Tomohiro Tanikawa
 - Michitaka Hirose
