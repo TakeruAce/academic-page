@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event | Takeru Hashimoto Web Page</title>
+    <link>http://localhost:1313/tags/event/</link>
+      <atom:link href="http://localhost:1313/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Event</title>
+      <link>http://localhost:1313/tags/event/</link>
+    </image>
+    
+    <item>
+      <title>👤 Sony Computer Science Laboratories のプロジェクト研究員になりました！</title>
+      <link>http://localhost:1313/post/sonycsl/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sonycsl/</guid>
+      <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
+それに伴い、拠点を沖縄県に移動しました。
+沖縄の地でモリモリ研究していきます！
+みなさん沖縄やOISTに来る際にはぜひお声がけを。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
+      <link>http://localhost:1313/post/utokyo/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/utokyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎓 博士（情報理工学）を取得しました！</title>
+      <link>http://localhost:1313/post/phd/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/phd/</guid>
+      <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
+それに伴い、拠点を沖縄県に移動しました。
+沖縄の地でモリモリ研究していきます！
+みなさん沖縄やOISTに来る際にはぜひお声がけを。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

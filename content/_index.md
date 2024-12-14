@@ -43,6 +43,20 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: featured_project
+    content:
+      title: Featured Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+      fill_image: true
+    
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -53,6 +67,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+      fill_image: true
   - block: collection
     content:
       title: Recent Publications
@@ -63,16 +78,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:

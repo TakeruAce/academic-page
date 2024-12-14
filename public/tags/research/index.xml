@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Takeru Hashimoto Web Page</title>
+    <link>http://localhost:1313/tags/research/</link>
+      <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+    </image>
+    
+    <item>
+      <title>Selfrionette</title>
+      <link>http://localhost:1313/project/selfrionette-en/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/selfrionette-en/</guid>
+      <description>&lt;h1 id=&#34;only-30-seconds-concept-video----dive-in&#34;&gt;Only 30 seconds Concept Video &amp;ndash; dive in!&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZPZmRLOwJy0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;If you are interested in our Selfrionette project, please read the background information below.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;selfrionette-a-new-vr-controller-for-manipulating-full-body-avatars-with-fingertip-force&#34;&gt;Selfrionette: A New VR Controller for Manipulating Full-Body Avatars with Fingertip Force&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Selfrionette&lt;/strong&gt; is an innovative controller that enables users to manipulate a full-body avatar in VR with fingertip force input. This system overcomes physical and spatial constraints while achieving diverse and highly dynamic haptic interactions.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/omosa.gif&#34;&gt;
+&lt;/figure&gt;
+
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/yawara.gif&#34;&gt;
+&lt;/figure&gt;
+ --&gt;
+&lt;p&gt;&lt;em&gt;Interaction with virtual objects using Selfrionette.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;h3 id=&#34;1-fingertip-force-input&#34;&gt;1. Fingertip Force Input&lt;/h3&gt;
+&lt;p&gt;Selfrionette uses &lt;strong&gt;seven single-beam load cells per hand&lt;/strong&gt; to measure fingertip forces. These sensors are embedded in a spherical casing, allowing for natural hand postures during operation. Each load cell can detect forces of up to &lt;strong&gt;20kg&lt;/strong&gt;, converting them into digital signals at &lt;strong&gt;80Hz&lt;/strong&gt; via an HX711 chip, which are then read by a microcontroller.&lt;/p&gt;
+&lt;h4 id=&#34;degrees-of-freedom-dof&#34;&gt;Degrees of Freedom (DoF):&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Thumb and Index Finger&lt;/strong&gt;: 3 DoF each (up/down, forward/backward, left/right), corresponding to arm and leg movements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pinky Finger&lt;/strong&gt;: 1 DoF (pressing), corresponding to object grasping.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using both hands, users can achieve up to 14 DoF for full-body control.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/device.png&#34;
+    alt=&#34;Mouse-shaped Input Interface&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Mouse-shaped Input Interface&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;2-translating-force-to-motion&#34;&gt;2. Translating Force to Motion&lt;/h3&gt;
+&lt;p&gt;Forces measured at the fingertips are converted into avatar movements in VR. This translation is achieved in real-time using &lt;strong&gt;inverse kinematics (IK)&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;avatar-motion-generation-equation&#34;&gt;Avatar Motion Generation Equation&lt;/h4&gt;
+&lt;p&gt;The avatar&amp;rsquo;s motion is described as follows:&lt;/p&gt;
+$$
+F_v = \alpha F_l \quad \text{and} \quad m_v \ddot{x} + c \dot{x} + k(x - x_0) = F_v
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$F_l$
+: Force applied to the load cell&lt;/li&gt;
+&lt;li&gt;$F_v$
+: Force acting on the target point (limb endpoint) in the virtual space&lt;/li&gt;
+&lt;li&gt;$m_v$
+: Virtual mass&lt;/li&gt;
+&lt;li&gt;$c, k$
+: Damping and spring constants&lt;/li&gt;
+&lt;li&gt;$x_0$
+: Avatar limb&amp;rsquo;s initial position&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This model allows for intuitive and highly responsive control based on fingertip force input.&lt;/p&gt;
+&lt;h3 id=&#34;3-haptic-feedback-representation&#34;&gt;3. Haptic Feedback Representation&lt;/h3&gt;
+&lt;p&gt;In addition to motion generation, Selfrionette incorporates the simulation of haptic properties (e.g., weight, friction, elasticity) to enhance the realism of virtual object interactions.&lt;/p&gt;
+&lt;h4 id=&#34;additional-forces-for-haptic-feedback&#34;&gt;Additional Forces for Haptic Feedback&lt;/h4&gt;
+&lt;p&gt;The motion equation for generating haptic feedback is expressed as follows:&lt;/p&gt;
+$$
+m_v \ddot{x} + c \dot{x} + k(x - x_0) = F_v + f_m
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$f_m$
+: Additional force representing haptic properties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each haptic property is implemented as follows:&lt;/p&gt;
+&lt;h5 id=&#34;1-weight&#34;&gt;1. Weight&lt;/h5&gt;
+&lt;p&gt;Weight is represented by incorporating acceleration and gravity:&lt;/p&gt;
+$$
+f_m = -m \ddot{x} - m g
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$m$
+: Virtual object&amp;rsquo;s mass&lt;/li&gt;
+&lt;li&gt;$g$
+: Gravitational acceleration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2-friction&#34;&gt;2. Friction&lt;/h5&gt;
+&lt;p&gt;Surface friction is modeled as:&lt;/p&gt;
+$$
+f_m =
+\begin{cases}
+-f_p, &amp; |f_p| \leq \mu |f_n| \ (\text{static friction}) \\
+-\mu&#39; |f_n| \cdot \text{dir}(f_p), &amp; |f_p| &gt; \mu |f_n| \ (\text{kinetic friction})
+\end{cases}
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$f_p$
+: Parallel force&lt;/li&gt;
+&lt;li&gt;$f_n$
+: Normal force&lt;/li&gt;
+&lt;li&gt;$\mu, \mu&#39;$
+: Static and kinetic friction coefficients&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;3-compliance&#34;&gt;3. Compliance&lt;/h5&gt;
+&lt;p&gt;Elasticity is expressed using spring properties:&lt;/p&gt;
+$$
+f_m = -k (x - x_c)
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$x_c$
+: Contact point&lt;/li&gt;
+&lt;li&gt;$k$
+: Spring constant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This allows users to feel soft objects and elastic materials realistically.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h3 id=&#34;uist-2024&#34;&gt;UIST 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;: Selfrionette: A Fingertip Force-Input Controller for Continuous Full-Body Avatar Manipulation and Diverse Haptic Interactions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Takeru Hashimoto, Yutaro Hirao&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3654777.3676409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper URL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vrsj-2024&#34;&gt;VRSJ 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;: Selfrionette: Realizing Full-Body Avatar Manipulation and Diverse Haptic Interactions with Fingertip Force Input&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Yutaro Hirao, Takeru Hashimoto&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://conference.vrsj.org/ac2024/program/doc/3G-22.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper URL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;media-coverage&#34;&gt;Media Coverage&lt;/h2&gt;
+&lt;h3 id=&#34;denpa-shimbun&#34;&gt;Denpa Shimbun&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://dempa-digital.com/article/607509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating &amp;ldquo;Sensory Experiences&amp;rdquo;: Avatar Operation and Haptic Reproduction with Selfrionette&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;nikkan-kogyo-shimbun&#34;&gt;Nikkan Kogyo Shimbun&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nikkan.co.jp/articles/view/00733970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Avatar Control with Fingers: Collaborative Development by NAIST and Sony CSL&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dc-expo-2024-arino-iku-report&#34;&gt;DC EXPO 2024 Arino Iku Report&lt;/h3&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PcH3ritX4tM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;demonstrations&#34;&gt;Demonstrations&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://makezine.jp/event/makers-mfk2024/m0101/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maker Faire Kyoto 2024&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SomatoShift</title>
+      <link>http://localhost:1313/project/somatoshift/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/somatoshift/</guid>
+      <description>&lt;h1 id=&#34;concept-haptic-avatar&#34;&gt;Concept: Haptic Avatar&lt;/h1&gt;
+&lt;p&gt;Advancements in haptic technology have enabled the expression of haptic experiences in virtual reality, such as the sensation of touching an object or holding a tool.
+Haptic technologies have found wide use in simulating interactions between humans and the physical world.
+Furthermore, ongoing research is exploring ways to allow individuals to experience bodily sensations other than their own.
+Virtual reality (VR) technology has facilitated the creation of avatars, visual representations that can embody multiple versions of oneself.
+By modifying not only an avatar&amp;rsquo;s appearance but also its proprioceptive sensations — the internal bodily feelings — it becomes feasible to generate the impression of inhabiting a completely new body.
+The goal of this study is to modify participants&amp;rsquo; proprioceptive perception of their own bodies by appropriately intervening in their movements using a force feedback device.
+Our aim is to create an experience that goes beyond the physical limitations of the body, which is one of the many constraints humans.
+We believe this approach offers individuals an opportunity to liberate themselves from their physical bodily limitations.&lt;/p&gt;
+&lt;h1 id=&#34;somatomotor-reconfiguration&#34;&gt;SomatoMotor Reconfiguration&lt;/h1&gt;
+&lt;p&gt;Our system intervenes in a user&amp;rsquo;s movement at strategic moments, giving rise to the sensation that the physical characteristics of their bodies have a change, as opposed to experiencing an external force being applied.
+We call this change in the relationship between somatosensory and motor sensations as somatomotor reconfiguration.
+To achieve this, we utilized impedance control, which modifies the static properties of an object as force information.
+Our previous study has shown that this can modify environmental properties.
+Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/heavy_light.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;p&gt;We have developed a wearable hardware prototype equipped with control moment gyroscopes (CMG), which produce torque from a spinning flywheel to deliver immediate force feedback in response to human movement.
+The mechanism and specifications of the device are shown in below figure.
+The weight of the wearable device was a critical consideration in its design, and following several prototype iterations, the final weight was brought down to 350g.
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/device_config.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ny-hJQ9BEaU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;Light as a Feather: An Altered Human Somatic Experience
+&lt;a href=&#34;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- # Hardware  --&gt;</description>
+    </item>
+    
+    <item>
+      <title>MetamorphX</title>
+      <link>http://localhost:1313/project/metamorphx/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/metamorphx/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of a grasped object that humans perceive haptically is affected by the object&amp;rsquo;s impedance.
+In this project, we have developed a handheld VR controller &amp;ldquo;MetamorphX&amp;rdquo; that can reproduce the impedance of various virtual objects.
+MetamorphX generates torque in response to human movement.
+We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; generated torque as a &lt;strong&gt;static&lt;/strong&gt; property of the object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;!-- # Hardware  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unident</title>
+      <link>http://localhost:1313/project/unident/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/unident/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bNRKsab2y6c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ShapeSense</title>
+      <link>http://localhost:1313/project/shapesense/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/shapesense/</guid>
+      <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;A controller that reproduces the moment of inertia and air resistance of a virtual grasped object&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RYP4salOgJ8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Transcalibur</title>
+      <link>http://localhost:1313/project/transcalibur/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/transcalibur/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;
+&lt;p&gt;The relationship between the position of the weight and the perceived shape of the device is formulated using a data-driven method to optimize the position of the weight of the device for the appearance of a given virtual object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OiSbn6D5kwA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;p&gt;By moving the two weighted modules in polar coordinates in a two-dimensional plane, Transcalibur changes its own moment of inertia.
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/transform.gif&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;computational-perception-model&#34;&gt;Computational Perception Model&lt;/h1&gt;
+&lt;p&gt;In order to generate real sensations with various objects in the virtual environment, it is necessary to know the relationship between the &amp;ldquo;position of the weight&amp;rdquo; and the &amp;ldquo;shape that humans actually perceive&amp;rdquo;.
+However, this relationship has not been established as a theory.&lt;/p&gt;
+&lt;p&gt;Therefore, we collected a large amount of paired data of &amp;ldquo;actual human shape perception&amp;rdquo; for Transcalibur&amp;rsquo;s &amp;ldquo;weight position&amp;rdquo; and formulated a mathematical model of human shape perception by performing multiple regression analysis.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/approach.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Honorable Mention&lt;/strong&gt; at CHI2019&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://cgworld.jp/feature/201810-thermal-03.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#34;blue&#34;&gt;『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」&lt;/font&gt;&lt;/a&gt; CGWORLD.jp 2018.10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context-aware Reading</title>
+      <link>http://localhost:1313/project/touchscreen/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>http://localhost:1313/project/touchscreen/</guid>
+      <description>&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
+&lt;p&gt;With regard to swipe operations in touchscreen operations, the user&amp;rsquo;s attention is directed to a specific item on the screen by reducing the movement of the screen in response to the movement of the finger.&lt;/p&gt;
+&lt;p&gt;This operation in a list view with similar content shows that the content with the operation is better remembered than the content without the operation.&lt;/p&gt;
+&lt;p&gt;Recently, we have seen a method to put advertisements in the list view in news apps, manga apps, and so on, and we can think of an application in the field of such advertisements, and an application to memorize important parts of textbooks and reference books efficiently.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jstage.jst.go.jp/article/tvrsj/23/3/23_139/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;For more detail (Japanese)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magic Table</title>
+      <link>http://localhost:1313/project/magic_table/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/magic_table/</guid>
+      <description>&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link: &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;image:
+caption: SIGGRAPH Asia 2017 Emerging Technology
+focal_point: Smart&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-project-with-markdown-slides&#34;&gt;Associate this project with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references-contentslidesexample-slidesmd&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
