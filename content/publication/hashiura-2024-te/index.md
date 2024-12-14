@@ -4,7 +4,7 @@ title: 'Bridging player intentions: Exploring the potential of synchronized hapt
 authors:
 - Kenta Hashiura
 - Kazuya Iida
-- Takeru Hashimoto
+- admin
 - Youichi Kamiyama
 - Keita Watanabe
 - Kouta Minamizawa

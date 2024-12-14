@@ -9,6 +9,6 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-12-14T03:43:09.839291Z'
 publication_types:
-- paper-conference
+- others
 publication: '*Extended Abstracts of*'
 ---

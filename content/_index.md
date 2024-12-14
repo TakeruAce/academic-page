@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -32,16 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Vision -- Beyond Physicality --'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+        Traditionally, our bodies have defined the edges of our perception, cognition, and capability. Yet as technology evolves, these once-fixed boundaries can be transcended. Beyond Physicality explores how we might re-envision the human body not as a static, biologically given form, but as a customizable, dynamic interface to interact with the world. In this new paradigm, the body becomes something we can extend, reshape, and even “swap,” allowing us to question the nature of our physical presence and identity.
   - block: collection
     id: featured_project
     content:

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/tags/iot/</link>
-      <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/tags/iot/</link>
+      <atom:link href="https://tkrtkr.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>IoT</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Mar 2018 12:35:52 +0900</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://tkrtkr.com/media/icon_hu7729264130191091259.png</url>
       <title>IoT</title>
-      <link>http://localhost:1313/tags/iot/</link>
+      <link>https://tkrtkr.com/tags/iot/</link>
     </image>
     
     <item>
       <title>Smart Controller</title>
-      <link>http://localhost:1313/project/smart_controller/</link>
+      <link>https://tkrtkr.com/project/smart_controller/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>http://localhost:1313/project/smart_controller/</guid>
+      <guid>https://tkrtkr.com/project/smart_controller/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;A system that allows you to control your home appliances from anywhere with &lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt; (famous messenger app in japan).&lt;/p&gt;
 &lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;

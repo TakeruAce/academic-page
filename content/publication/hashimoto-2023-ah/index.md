@@ -5,6 +5,8 @@ authors:
 - admin
 - Shigeo Yoshida
 - Takuji Narumi
+featured: true
+
 date: '2023-07-01'
 publishDate: '2024-12-14T03:43:09.783465Z'
 publication_types:
@@ -12,6 +14,7 @@ publication_types:
 publication: '*ACM SIGGRAPH 2023 Emerging Technologies*'
 doi: 10.1145/3588037.3595390
 tags:
+- Human Augmentation
 - Proprioception
 - Haptics
 - Embodied Interaction

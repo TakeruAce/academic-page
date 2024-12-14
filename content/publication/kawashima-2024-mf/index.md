@@ -4,7 +4,7 @@ title: 'AgiLimb: Embodied agile robotic arm by integrating digital reflex and se
 authors:
 - Yusuke Kawashima
 - Yoshiaki Abe
-- Takeru Hashimoto
+- admin
 - Shunichi Kasahara
 - Ryuma Niiyama
 date: '2024-12-01'
