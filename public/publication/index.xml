@@ -5,12 +5,36 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>A demonstration of selfrionette: A force-input controller for continuous full-body avatar manipulation and enhanced virtual haptics</title>
+      <link>http://localhost:1313/publication/hirao-2024-br/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hirao-2024-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgiLimb: Embodied agile robotic arm by integrating digital reflex and seamless action takeover</title>
+      <link>http://localhost:1313/publication/kawashima-2024-mf/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kawashima-2024-mf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging player intentions: Exploring the potential of synchronized haptic controllers in multiplayer game</title>
+      <link>http://localhost:1313/publication/hashiura-2024-te/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hashiura-2024-te/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Selfrionette: A fingertip force-input controller for continuous full-body avatar manipulation and diverse haptic interactions</title>
