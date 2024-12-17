@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/publication/</link>
+      <atom:link href="https://tkrtkr.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://tkrtkr.com/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://tkrtkr.com/publication/</link>
     </image>
     
     <item>
       <title>A demonstration of selfrionette: A force-input controller for continuous full-body avatar manipulation and enhanced virtual haptics</title>
-      <link>http://localhost:1313/publication/hirao-2024-br/</link>
+      <link>https://tkrtkr.com/publication/hirao-2024-br/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hirao-2024-br/</guid>
+      <guid>https://tkrtkr.com/publication/hirao-2024-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AgiLimb: Embodied agile robotic arm by integrating digital reflex and seamless action takeover</title>
-      <link>http://localhost:1313/publication/kawashima-2024-mf/</link>
+      <link>https://tkrtkr.com/publication/kawashima-2024-mf/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kawashima-2024-mf/</guid>
+      <guid>https://tkrtkr.com/publication/kawashima-2024-mf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bridging player intentions: Exploring the potential of synchronized haptic controllers in multiplayer game</title>
-      <link>http://localhost:1313/publication/hashiura-2024-te/</link>
+      <link>https://tkrtkr.com/publication/hashiura-2024-te/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashiura-2024-te/</guid>
+      <guid>https://tkrtkr.com/publication/hashiura-2024-te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selfrionette: A fingertip force-input controller for continuous full-body avatar manipulation and diverse haptic interactions</title>
-      <link>http://localhost:1313/publication/hashimoto-2024-dl/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2024-dl/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2024-dl/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2024-dl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceptual Dimensions of Physical Properties of Handheld Objects Induced by Impedance Changes</title>
-      <link>http://localhost:1313/publication/hashimoto-2023-dw/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2023-dw/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2023-dw/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2023-dw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement</title>
-      <link>http://localhost:1313/publication/hashimoto-2023-ah/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2023-ah/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2023-ah/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2023-ah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object with Weight Shifting VR Controller by Computational Perception Model</title>
-      <link>http://localhost:1313/publication/shigeyama-2022-gw/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2022-gw/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2022-gw/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2022-gw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control</title>
-      <link>http://localhost:1313/publication/hashimoto-2022-af/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2022-af/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2022-af/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2022-af/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
-      <link>http://localhost:1313/publication/shimizu-2021-df/</link>
+      <link>https://tkrtkr.com/publication/shimizu-2021-df/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shimizu-2021-df/</guid>
+      <guid>https://tkrtkr.com/publication/shimizu-2021-df/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
-      <link>http://localhost:1313/publication/liu-2019-mu/</link>
+      <link>https://tkrtkr.com/publication/liu-2019-mu/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2019-mu/</guid>
+      <guid>https://tkrtkr.com/publication/liu-2019-mu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
-      <link>http://localhost:1313/publication/shigeyama-2019-jq/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2019-jq/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2019-jq/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2019-jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects</title>
-      <link>http://localhost:1313/publication/shigeyama-2019-nd/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2019-nd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2019-nd/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2019-nd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of pseudo-haptic feedback on touchscreens on visual memory during image browsing</title>
-      <link>http://localhost:1313/publication/hashimoto-2018-nt/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2018-nt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2018-nt/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2018-nt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: dynamic 2D haptic shape illusion of virtual object by weight moving VR controller</title>
-      <link>http://localhost:1313/publication/shigeyama-2018-up/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2018-up/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2018-up/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2018-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
-      <link>http://localhost:1313/publication/shigeyama-2018-ww/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2018-ww/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2018-ww/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2018-ww/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magic table: deformable props using visuo haptic redirection</title>
-      <link>http://localhost:1313/publication/matsumoto-2017-wi/</link>
+      <link>https://tkrtkr.com/publication/matsumoto-2017-wi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/matsumoto-2017-wi/</guid>
+      <guid>https://tkrtkr.com/publication/matsumoto-2017-wi/</guid>
       <description></description>
     </item>
     
