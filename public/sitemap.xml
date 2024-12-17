@@ -2,299 +2,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tkrtkr.com/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/siggraph/</loc>
+    <loc>http://localhost:1313/post/siggraph/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/award/</loc>
+    <loc>http://localhost:1313/tags/award/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hirao-2024-br/</loc>
+    <loc>http://localhost:1313/publication/hirao-2024-br/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/kawashima-2024-mf/</loc>
+    <loc>http://localhost:1313/publication/kawashima-2024-mf/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/interbee/</loc>
+    <loc>http://localhost:1313/post/interbee/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashiura-2024-te/</loc>
+    <loc>http://localhost:1313/publication/hashiura-2024-te/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/body-reconstruction/</loc>
+    <loc>http://localhost:1313/tags/body-reconstruction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/embodied-interaction/</loc>
+    <loc>http://localhost:1313/tags/embodied-interaction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/haptics/</loc>
+    <loc>http://localhost:1313/tags/haptics/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2024-dl/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2024-dl/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/selfrionette-en/</loc>
+    <loc>http://localhost:1313/project/selfrionette-en/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/sonycsl/</loc>
+    <loc>http://localhost:1313/post/sonycsl/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/event/</loc>
+    <loc>http://localhost:1313/tags/event/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/johosyori/</loc>
+    <loc>http://localhost:1313/post/johosyori/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2023-dw/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2023-dw/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/utokyo/</loc>
+    <loc>http://localhost:1313/post/utokyo/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/post/phd/</loc>
+    <loc>http://localhost:1313/post/phd/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/body-perception/</loc>
+    <loc>http://localhost:1313/tags/body-perception/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/human-augmentation/</loc>
+    <loc>http://localhost:1313/tags/human-augmentation/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/proprioception/</loc>
+    <loc>http://localhost:1313/tags/proprioception/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2023-ah/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2023-ah/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/somatoshift/</loc>
+    <loc>http://localhost:1313/project/somatoshift/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2022-gw/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2022-gw/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/control-moment-gyroscopes/</loc>
+    <loc>http://localhost:1313/tags/control-moment-gyroscopes/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/impedance-control/</loc>
+    <loc>http://localhost:1313/tags/impedance-control/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/kinesthetics/</loc>
+    <loc>http://localhost:1313/tags/kinesthetics/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2022-af/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2022-af/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/ungrounded-haptic-feedback/</loc>
+    <loc>http://localhost:1313/tags/ungrounded-haptic-feedback/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/metamorphx/</loc>
+    <loc>http://localhost:1313/project/metamorphx/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/unident/</loc>
+    <loc>http://localhost:1313/project/unident/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/</loc>
+    <loc>http://localhost:1313/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shimizu-2021-df/</loc>
+    <loc>http://localhost:1313/publication/shimizu-2021-df/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/shapesense/</loc>
+    <loc>http://localhost:1313/project/shapesense/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/air-resistance/</loc>
+    <loc>http://localhost:1313/tags/air-resistance/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/shape-perception/</loc>
+    <loc>http://localhost:1313/tags/shape-perception/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/liu-2019-mu/</loc>
+    <loc>http://localhost:1313/publication/liu-2019-mu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/virtual-reality/</loc>
+    <loc>http://localhost:1313/tags/virtual-reality/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/transcalibur/</loc>
+    <loc>http://localhost:1313/project/transcalibur/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/computational-interaction/</loc>
+    <loc>http://localhost:1313/tags/computational-interaction/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/haptic-display/</loc>
+    <loc>http://localhost:1313/tags/haptic-display/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2019-jq/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2019-jq/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2019-nd/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2019-nd/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/others/</loc>
+    <loc>http://localhost:1313/publication_types/others/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/art/</loc>
+    <loc>http://localhost:1313/tags/art/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/dress_of_ghost/</loc>
+    <loc>http://localhost:1313/project/dress_of_ghost/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/voltex/</loc>
+    <loc>http://localhost:1313/project/voltex/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/touchscreen/</loc>
+    <loc>http://localhost:1313/project/touchscreen/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/iot/</loc>
+    <loc>http://localhost:1313/tags/iot/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/tags/other/</loc>
+    <loc>http://localhost:1313/tags/other/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/smart_controller/</loc>
+    <loc>http://localhost:1313/project/smart_controller/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2018-nt/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2018-nt/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2018-up/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2018-up/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2018-ww/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2018-ww/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/magic_table/</loc>
+    <loc>http://localhost:1313/project/magic_table/</loc>
     <lastmod>2017-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/publication/matsumoto-2017-wi/</loc>
+    <loc>http://localhost:1313/publication/matsumoto-2017-wi/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tkrtkr.com/project/rubikcube/</loc>
+    <loc>http://localhost:1313/project/rubikcube/</loc>
     <lastmod>2016-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

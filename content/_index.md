@@ -25,8 +25,10 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
+          # filename: /img/somatoshift/featured1.png
           filters:
-            brightness: 1.0
+            brightness: 0.5
+            blur: 0.2
           size: cover
           position: center
           parallax: false
