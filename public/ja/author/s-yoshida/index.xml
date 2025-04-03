@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Yoshida | 橋本 健</title>
+    <link>http://localhost:1313/ja/author/s-yoshida/</link>
+      <atom:link href="http://localhost:1313/ja/author/s-yoshida/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Yoshida</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>S Yoshida</title>
+      <link>http://localhost:1313/ja/author/s-yoshida/</link>
+    </image>
+    
+    <item>
+      <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects</title>
+      <link>http://localhost:1313/ja/publication/shigeyama-2019-nd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2019-nd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
+      <link>http://localhost:1313/ja/publication/shigeyama-2018-ww/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2018-ww/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鳴海 拓志 | 橋本 健</title>
+    <link>http://localhost:1313/ja/author/%E9%B3%B4%E6%B5%B7-%E6%8B%93%E5%BF%97/</link>
+      <atom:link href="http://localhost:1313/ja/author/%E9%B3%B4%E6%B5%B7-%E6%8B%93%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <description>鳴海 拓志</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>鳴海 拓志</title>
+      <link>http://localhost:1313/ja/author/%E9%B3%B4%E6%B5%B7-%E6%8B%93%E5%BF%97/</link>
+    </image>
+    
+    <item>
+      <title>ヒトの動作に連動した非接地の力フィードバックによる把持物体の多様な物性提示システム</title>
+      <link>http://localhost:1313/ja/publication/qiao-ben-2024-gr/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/qiao-ben-2024-gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>タッチスクリーンでの擬似触力覚提示による注意誘導</title>
+      <link>http://localhost:1313/ja/publication/qiao-ben-2018-js/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/qiao-ben-2018-js/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

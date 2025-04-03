@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michitaka Hirose | 橋本 健</title>
+    <link>http://localhost:1313/ja/author/michitaka-hirose/</link>
+      <atom:link href="http://localhost:1313/ja/author/michitaka-hirose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michitaka Hirose</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Michitaka Hirose</title>
+      <link>http://localhost:1313/ja/author/michitaka-hirose/</link>
+    </image>
+    
+    <item>
+      <title>Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object with Weight Shifting VR Controller by Computational Perception Model</title>
+      <link>http://localhost:1313/ja/publication/shigeyama-2022-gw/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2022-gw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
+      <link>http://localhost:1313/ja/publication/liu-2019-mu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/liu-2019-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
+      <link>http://localhost:1313/ja/publication/shigeyama-2019-jq/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2019-jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of pseudo-haptic feedback on touchscreens on visual memory during image browsing</title>
+      <link>http://localhost:1313/ja/publication/hashimoto-2018-nt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/hashimoto-2018-nt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

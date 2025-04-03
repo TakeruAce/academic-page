@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiju Aoki | 橋本 健</title>
+    <link>http://localhost:1313/ja/author/taiju-aoki/</link>
+      <atom:link href="http://localhost:1313/ja/author/taiju-aoki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taiju Aoki</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Taiju Aoki</title>
+      <link>http://localhost:1313/ja/author/taiju-aoki/</link>
+    </image>
+    
+    <item>
+      <title>Transcalibur: dynamic 2D haptic shape illusion of virtual object by weight moving VR controller</title>
+      <link>http://localhost:1313/ja/publication/shigeyama-2018-up/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2018-up/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

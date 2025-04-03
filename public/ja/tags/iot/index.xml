@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | 橋本 健</title>
+    <link>https://tkrtkr.com/ja/tags/iot/</link>
+      <atom:link href="https://tkrtkr.com/ja/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Wed, 28 Mar 2018 12:35:52 +0900</lastBuildDate>
+    <image>
+      <url>https://tkrtkr.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>IoT</title>
+      <link>https://tkrtkr.com/ja/tags/iot/</link>
+    </image>
+    
+    <item>
+      <title>スマートコントローラー</title>
+      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
+&lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
+&lt;p&gt;詳細については以下の2つの記事（日本語）をご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/6099d3ace9ec3e26d571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;RaspberryPiで自宅のシーリングライトに目覚まし機能をつけてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/41eb122dcb0feda0eae7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Bottle.pyでRaspberry PiをWebサーバにしてLINEと連携させてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;raspberry-piから家電を操作&#34;&gt;Raspberry Piから家電を操作&lt;/h2&gt;
+&lt;p&gt;赤外線受信機を使用して、RaspberryPiに家電のリモコンの信号を記憶させました。&lt;/p&gt;
+&lt;p&gt;RaspberryPiのGPIOを使用して、赤外線LEDを制御し、学習した信号を送信して家電を操作できます。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/ee003708-e39b-3bf7-df78-3144582400a8.png&#34; alt=&#34;image.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;lineボット&#34;&gt;LINEボット&lt;/h2&gt;
+&lt;p&gt;LINE Messaging APIを使用して、ユーザーのメッセージに応答するボットを作成しました。&lt;/p&gt;
+&lt;p&gt;このボットを通じてRaspberry Piを操作できます。&lt;/p&gt;
+&lt;h2 id=&#34;lineからraspberry-piを制御&#34;&gt;LINEからRaspberry Piを制御&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PythonのWebサーバー構築フレームワークであるBottleを使用して、RaspberryPi上にWebサーバーを構築
+&lt;ul&gt;
+&lt;li&gt;ngrokというサービスを使用して、自宅のLAN外からWebサーバーにアクセス可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Raspberry Pi上に、httpリクエストに応じてRaspberry Piから家電に信号を送信するWebアプリケーションを作成・実装
+&lt;ul&gt;
+&lt;li&gt;LINE Messaging APIからのWebhookで送信されるhttpリクエストを処理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;LINE Messaging APIを使用して、ユーザーのメッセージに応答するボットを作成
+&lt;ul&gt;
+&lt;li&gt;このボットを通じてRaspberry Piを制御可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/6500d2ae-021f-10ff-bea6-a262de4dd930.gif&#34; width=&#34;200&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://tkrtkr.com/publication/</link>
       <atom:link href="https://tkrtkr.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Publications</title>
       <link>https://tkrtkr.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Effects of Impedance Control on Haptic Perception of Object Properties: A qualitative and quantitative approach</title>
+      <link>https://tkrtkr.com/publication/hashimoto-2025-vq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/publication/hashimoto-2025-vq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A demonstration of selfrionette: A force-input controller for continuous full-body avatar manipulation and enhanced virtual haptics</title>

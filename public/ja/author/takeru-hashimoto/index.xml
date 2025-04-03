@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takeru Hashimoto | 橋本 健</title>
+    <link>http://localhost:1313/ja/author/takeru-hashimoto/</link>
+      <atom:link href="http://localhost:1313/ja/author/takeru-hashimoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takeru Hashimoto</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Takeru Hashimoto</title>
+      <link>http://localhost:1313/ja/author/takeru-hashimoto/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Impedance Control on Haptic Perception of Object Properties: A qualitative and quantitative approach</title>
+      <link>http://localhost:1313/ja/publication/hashimoto-2025-vq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/hashimoto-2025-vq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

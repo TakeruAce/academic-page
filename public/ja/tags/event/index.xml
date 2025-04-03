@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event | 橋本 健</title>
+    <link>https://tkrtkr.com/ja/tags/event/</link>
+      <atom:link href="https://tkrtkr.com/ja/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tkrtkr.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Event</title>
+      <link>https://tkrtkr.com/ja/tags/event/</link>
+    </image>
+    
+    <item>
+      <title>👤 Sony Computer Science Laboratories のプロジェクト研究員になりました！</title>
+      <link>https://tkrtkr.com/ja/post/sonycsl/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/post/sonycsl/</guid>
+      <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
+それに伴い、拠点を沖縄県に移動しました。
+沖縄の地でモリモリ研究していきます！
+みなさん沖縄やOISTに来る際にはぜひお声がけを。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
+      <link>https://tkrtkr.com/ja/post/tvrsj2024/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/post/tvrsj2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
+      <link>https://tkrtkr.com/ja/post/utokyo/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/post/utokyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎓 博士（情報理工学）を取得しました！</title>
+      <link>https://tkrtkr.com/ja/post/phd/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/post/phd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

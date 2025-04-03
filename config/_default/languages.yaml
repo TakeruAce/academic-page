@@ -6,7 +6,14 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+
+ja:
+  languageCode: ja
+  languageName: 日本語
+  weight: 2
+  title: 橋本 健
+  contentDir: content/ja
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

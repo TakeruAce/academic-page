@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プロジェクト | 橋本 健</title>
+    <link>https://tkrtkr.com/ja/project/</link>
+      <atom:link href="https://tkrtkr.com/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>プロジェクト</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tkrtkr.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>プロジェクト</title>
+      <link>https://tkrtkr.com/ja/project/</link>
+    </image>
+    
+    <item>
+      <title>Selfrionette / セルフリオネット</title>
+      <link>https://tkrtkr.com/ja/project/selfrionette/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/selfrionette/</guid>
+      <description>&lt;h1 id=&#34;30秒のプロジェクト高速紹介動画&#34;&gt;30秒のプロジェクト高速紹介動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZPZmRLOwJy0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;この動画を見て興味を持った方は、ぜひ下の詳細な背景をご覧ください。&lt;/span&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;selfrionette-指先の力で全身アバターを操作する新しいvrコントローラ&#34;&gt;Selfrionette: 指先の力で全身アバターを操作する新しいVRコントローラ&lt;/h1&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Selfrionette&lt;/strong&gt;は、指先の力入力を用いてVR空間内で全身アバターを操作可能にする革新的なコントローラです。このシステムは、物理的および空間的な制約を克服し、多様で広いレンジのな触覚インタラクションを実現します。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/omosa.gif&#34;&gt;
+&lt;/figure&gt;
+
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/yawara.gif&#34;&gt;
+&lt;/figure&gt;
+ --&gt;
+&lt;p&gt;&lt;em&gt;Selfrionetteを用いてVR環境内のオブジェクトとインタラクションする様子&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;主な特徴&#34;&gt;主な特徴&lt;/h2&gt;
+&lt;h3 id=&#34;1-指先の力入力&#34;&gt;1. 指先の力入力&lt;/h3&gt;
+&lt;p&gt;Selfrionetteは、&lt;strong&gt;片手で7つのシングルビームロードセル&lt;/strong&gt;を使用して指先の力を測定します。このセンサーは球形の筐体に組み込まれており、自然な手の姿勢で操作が可能です。各ロードセルは最大&lt;strong&gt;20kgの力&lt;/strong&gt;を検出でき、HX711チップを用いて&lt;strong&gt;80Hz&lt;/strong&gt;でデジタル信号に変換し、マイクロコントローラで読み取っています。&lt;/p&gt;
+&lt;h4 id=&#34;自由度dof&#34;&gt;自由度（DoF）:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;親指と人差し指&lt;/strong&gt;: 各3自由度（上下、前後、左右）。それぞれ足と手の動作に対応。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小指&lt;/strong&gt;: 1自由度（押し込み）。 ものの把持に対応&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;両手を使用することで、最大14自由度で全身の操作が可能です。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/device.png&#34;
+    alt=&#34;デバイス外観&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;デバイス外観&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;2-力から運動への変換&#34;&gt;2. 力から運動への変換&lt;/h3&gt;
+&lt;p&gt;指先で測定した力をVR空間内のアバターの動きに変換します。この変換は**逆運動学（IK）**を用いてリアルタイムで実行されます。&lt;/p&gt;
+&lt;h4 id=&#34;アバター運動生成の方程式&#34;&gt;アバター運動生成の方程式&lt;/h4&gt;
+&lt;p&gt;以下の式でアバターの動きが記述されます：&lt;/p&gt;
+$$
+F_v = \alpha F_l \quad \text{および} \quad m_v \ddot{x} + c \dot{x} + k(x - x_0) = F_v
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$F_l$
+: ロードセルに加えた力&lt;/li&gt;
+&lt;li&gt;$F_v$
+: 仮想空間内の目標点（四肢のエンドポイント）に作用する力&lt;/li&gt;
+&lt;li&gt;$m_v$
+: 仮想質量&lt;/li&gt;
+&lt;li&gt;$c, k$
+: ダンパーとばねの定数&lt;/li&gt;
+&lt;li&gt;$x_0$
+: アバターの手足の基準位置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;このモデルにより、指先の力入力に基づく直感的で応答性の高い制御を実現します。&lt;/p&gt;
+&lt;h3 id=&#34;3-触感の表現&#34;&gt;3. 触感の表現&lt;/h3&gt;
+&lt;p&gt;Selfrionetteでは、単なる力入力による運動生成だけでなく、触覚特性（重さ、摩擦、弾性など）を表現するための追加の力もシミュレーションに内包できます。この手法により、バーチャル物体の物理的特性をよりリアルに体感できます。&lt;/p&gt;
+&lt;h4 id=&#34;触覚の追加力&#34;&gt;触覚の追加力&lt;/h4&gt;
+&lt;p&gt;触覚フィードバックを生成するための運動方程式は、以下のように表現されます：&lt;/p&gt;
+$$
+m_v \ddot{x} + c \dot{x} + k(x - x_0) = F_v + f_m
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$f_m$
+: 触覚特性を表現する追加の力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;各触覚特性は以下のように実現されています：&lt;/p&gt;
+&lt;h5 id=&#34;1-重さ-weight&#34;&gt;1. 重さ (Weight)&lt;/h5&gt;
+&lt;p&gt;物体の重さを表現するためには、加速度と重力の効果を加えます：&lt;/p&gt;
+$$
+f_m = -m \ddot{x} - m g
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$m$
+: 仮想物体の質量&lt;/li&gt;
+&lt;li&gt;$g$
+: 重力加速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2-摩擦-friction&#34;&gt;2. 摩擦 (Friction)&lt;/h5&gt;
+&lt;p&gt;表面間の摩擦力を以下でモデル化します：&lt;/p&gt;
+$$
+f_m =
+\begin{cases}
+-f_p, &amp; |f_p| \leq \mu |f_n| \ (\text{静止摩擦}) \\
+-\mu&#39; |f_n| \cdot \text{dir}(f_p), &amp; |f_p| &gt; \mu |f_n| \ (\text{動摩擦})
+\end{cases}
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$f_p$
+: 平行方向の力&lt;/li&gt;
+&lt;li&gt;$f_n$
+: 垂直方向の力&lt;/li&gt;
+&lt;li&gt;$\mu, \mu&#39;$
+: 静止摩擦係数、動摩擦係数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;3-弾性-compliance&#34;&gt;3. 弾性 (Compliance)&lt;/h5&gt;
+&lt;p&gt;弾性を表現するためにばねの特性を使用します：&lt;/p&gt;
+$$
+f_m = -k (x - x_c)
+$$ 
+
+&lt;ul&gt;
+&lt;li&gt;$x_c$
+: 接触点の位置&lt;/li&gt;
+&lt;li&gt;$k$
+: ばね定数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これにより、柔らかいオブジェクトを掴む感覚や弾性体に触れる感覚を再現します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;論文情報&#34;&gt;論文情報&lt;/h2&gt;
+&lt;h3 id=&#34;uist-2024&#34;&gt;UIST 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;タイトル&lt;/strong&gt;:Selfrionette: A Fingertip Force-Input Controller for Continuous Full-Body Avatar Manipulation and Diverse Haptic Interactions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;著者&lt;/strong&gt;: Takeru Hashimoto, Yutaro Hirao&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3654777.3676409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文URL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vrsj-2024&#34;&gt;VRSJ 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;タイトル&lt;/strong&gt;:セルフリオネット：指先力入力システムによる全身アバタ操作と多様な触覚インタラクションの実現&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;著者&lt;/strong&gt;: 平尾悠太朗、橋本健&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://conference.vrsj.org/ac2024/program/doc/3G-22.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文URL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;メディア取材&#34;&gt;メディア、取材&lt;/h2&gt;
+&lt;h3 id=&#34;電波新聞&#34;&gt;電波新聞&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://dempa-digital.com/article/607509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【「五感」を創る コンテンツ制作の今】　指先だけでアバター操作、触覚も再現　「セルフリオネット」で新たなVR体験提供へ&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;日刊工業新聞&#34;&gt;日刊工業新聞&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nikkan.co.jp/articles/view/00733970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;指だけでアバター操作　奈良先端大とソニーCSL、コントローラー開発&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dc-expo-2024-有野いくさん体験レポート&#34;&gt;DC EXPO 2024 有野いくさん体験レポート&lt;/h3&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PcH3ritX4tM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;demonstrations&#34;&gt;Demonstrations&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://makezine.jp/event/makers-mfk2024/m0101/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maker Faire Kyoto 2024&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ソマトシフト / SomatoShift</title>
+      <link>https://tkrtkr.com/ja/project/somatoshift/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/somatoshift/</guid>
+      <description>&lt;h1 id=&#34;コンセプト力覚アバター&#34;&gt;コンセプト：力覚アバター&lt;/h1&gt;
+&lt;p&gt;力覚提示技術の進歩により、物体に触れる感覚や道具を握る感覚などの力覚体験をバーチャルリアリティで表現することが可能になりました。
+力覚技術は、人間と物理世界との相互作用のシミュレーションに広く使用されています。&lt;/p&gt;
+&lt;p&gt;一方で、自身以外の身体感覚を体験する方法についても研究が進められています。
+バーチャルリアリティ（VR）技術により、自分とは異なる特徴をもつアバターを，自分の身体として操作することが可能になりました。
+アバターの外見だけでなく、固有受容感覚（内部的な身体感覚）も変化させることで、完全に新しい身体に変容するという感覚を生み出すことが可能になるのではないでしょうか？&lt;/p&gt;
+&lt;p&gt;私たちの目標は、人間の制約の一つである身体の物理的限界を超える体験を作り出すことです。
+このアプローチにより、個人が物理的な身体の制限から解放される機会を提供できると考えています。&lt;/p&gt;
+&lt;h1 id=&#34;身体運動再構成&#34;&gt;身体運動再構成&lt;/h1&gt;
+&lt;p&gt;私たちのシステムは、ユーザーの動きに戦略的なタイミングで介入し、外部から力が加えられているという感覚ではなく、自身の身体の物理的特性が変化したという感覚を生み出します。
+私たちは、この身体感覚と運動感覚の関係の変化を身体運動再構成と呼びます。
+これを実現するために、物体の静的性質を力情報として修正するインピーダンス制御を利用しました。
+私たちの以前の研究では、これが環境特性を修正できることを示しました。
+同様に、ウェアラブル力覚フィードバックデバイスを装着し、動きに合わせて力覚フィードバックを提供することで、関節の動きを変更し、身体知覚の変化を引き起こすことができると仮説を立てています。
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/heavy_light.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
+&lt;p&gt;私たちは、回転するフライホイールからトルクを発生させて人間の動きに即座に力覚フィードバックを提供するコントロールモーメントジャイロスコープ（CMG）を搭載したウェアラブルハードウェアのプロトタイプを開発しました。
+デバイスの機構と仕様は下図に示されています。
+ウェアラブルデバイスの重量は設計上の重要な考慮事項であり、いくつかのプロトタイプの反復を経て、最終的な重量を350gまで削減しました。
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/device_config.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ny-hJQ9BEaU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;メディア&#34;&gt;メディア&lt;/h1&gt;
+&lt;p&gt;Light as a Feather: An Altered Human Somatic Experience
+&lt;a href=&#34;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- # ハードウェア  --&gt;</description>
+    </item>
+    
+    <item>
+      <title>めたもるX / MetamorphX</title>
+      <link>https://tkrtkr.com/ja/project/metamorphx/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/metamorphx/</guid>
+      <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
+&lt;p&gt;人間が力覚的に知覚する把持物体の形状は、物体のインピーダンス（どのぐらいの力を加えるとどのぐらい動くか）に影響されます。
+このプロジェクトでは、様々な仮想物体のインピーダンスを再現できるハンドヘルドVRコントローラー「めたもるX / MetamorphX」を開発しました。
+めたもるXは人間の動きに応じてトルクを生成します。
+私たちは、&lt;strong&gt;動的に&lt;/strong&gt;生成されたトルクを物体の&lt;strong&gt;静的な&lt;/strong&gt;特性として知覚させることを試みました。&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;!-- # Hardware  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ユニデント / Unident</title>
+      <link>https://tkrtkr.com/ja/project/unident/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/unident/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;Unidentは、高速な回転慣性の変化により、衝撃感を提供できる手持ちVRコントローラです。
+Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供することができます。
+1つ目の実験では、ユーザーの手のひらの圧力を分析することで、Unidentがハンドヘルドオブジェクトに加えられた物理的な衝撃感を提供できることを示しました。
+2番目の実験では、変更する回転慣性の量に応じて、様々な大きさの衝撃感を提供できることを示しました。ユーザー研究では、Unidentが振動触覚フィードバックよりもより現実的な衝撃感を提供できることが示されました。&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bNRKsab2y6c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>シェイプセンス / ShapeSense</title>
+      <link>https://tkrtkr.com/ja/project/shapesense/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/shapesense/</guid>
+      <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
+&lt;p&gt;バーチャル物体の慣性モーメントと空気抵抗を再現するコントローラー&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RYP4salOgJ8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>トランスカリバー / Transcalibur</title>
+      <link>https://tkrtkr.com/ja/project/transcalibur/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/transcalibur/</guid>
+      <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
+&lt;p&gt;人間が知覚する把持物体の形状は、物体の慣性モーメントと見た目に影響されます。このプロジェクトでは、2つの重りの位置を動かすことで、様々なバーチャル物体を持っている感覚を再現できる手持ちVRコントローラー「トランスカリバー / Transcalibur」を開発しました。&lt;/p&gt;
+&lt;p&gt;重りの位置とデバイスの知覚される形状の関係は、データ駆動型の手法で定式化され、与えられた仮想オブジェクトの見た目に対してデバイスの重りの位置を最適化します。&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OiSbn6D5kwA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
+&lt;p&gt;Transcaliburは、2次元平面上で2つの重り付きモジュールを極座標で動かすことで、自身の慣性モーメントを変化させます。
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/transform.gif&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;計算論的知覚モデル&#34;&gt;計算論的知覚モデル&lt;/h1&gt;
+&lt;p&gt;仮想環境で様々なオブジェクトのリアルな感覚を生成するためには、「重りの位置」と「人間が実際に知覚する形状」の関係を知る必要があります。
+しかし、この関係は理論として確立されていませんでした。&lt;/p&gt;
+&lt;p&gt;そこで、Transcaliburの「重りの位置」に対する「実際の人間の形状知覚」のペアデータを大量に収集し、重回帰分析を行うことで、人間の形状知覚の数理モデルを定式化しました。&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/approach.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;受賞歴&#34;&gt;受賞歴&lt;/h1&gt;
+&lt;p&gt;CHI2019で&lt;strong&gt;Honorable Mention&lt;/strong&gt;を受賞&lt;/p&gt;
+&lt;h1 id=&#34;メディア&#34;&gt;メディア&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://cgworld.jp/feature/201810-thermal-03.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#34;blue&#34;&gt;『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」&lt;/font&gt;&lt;/a&gt; CGWORLD.jp 2018.10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dress of Ghost</title>
+      <link>https://tkrtkr.com/ja/project/dress_of_ghost/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/dress_of_ghost/</guid>
+      <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
+&lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
+Listen to the voice of things and be grateful for their benefits.
+These beliefs were born because people and things have spun a close relationship.
+However, with the development of technology, people became arrogant, and the &amp;ldquo;ghost&amp;rdquo; in things was forgotten.
+Especially now that intelligence has been given to all things, human beings are becoming a one-sided subjective relationship with the side that commands and the side that commands things.
+Such a apathetic relationship even makes things feel bothersome.
+When you listen to the voices of things and think about the feelings of things, it&amp;rsquo;s the first time that things have life.&lt;/p&gt;
+&lt;p&gt;This work breaks down the relationship between people and things and depicts a world where &amp;ldquo;ghost&amp;rdquo; dwells in things.
+Particles that behave in an inorganic manner.
+If you work diligently and face it, &amp;ldquo;ghost&amp;rdquo; will come to reside in the particles and speak to your heart.&lt;/p&gt;
+&lt;p&gt;Dress of Ghost reestablishes a relationship between you and things.&lt;/p&gt;
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Produced by Takeru Hashimoto and Masato Nomiyama(Takram)&lt;/p&gt;
+&lt;p&gt;Showcase : 2018 Dest-logy REBUILD, iiiexhibition, The University of Tokyo&lt;/p&gt;
+&lt;h1 id=&#34;movie&#34;&gt;Movie&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/s8Q2XVtoIwU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;tech&#34;&gt;Tech&lt;/h1&gt;
+&lt;p&gt;Sand that gives you goosebumps or pulses when you put your hand on it.&lt;/p&gt;
+&lt;p&gt;We use &lt;a href=&#34;http://www.satomunehiko.com/ja/works/touche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Touché&lt;/a&gt; for human hand contact and proximity detection.
+We have extended Touché to enable us to obtain the contact and proximity of a human hand and sand by arranging multiple objects.&lt;/p&gt;
+&lt;p&gt;A matrix of electromagnets and analog control of each electromagnet made it possible to express the goosebumps and pulsations of the sand.
+In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Tansei: UTokyo&amp;rsquo;s Official Magazine&lt;/font&gt;&lt;/a&gt; vol.38 special episode &amp;ldquo;Art of the University of Tokyo&amp;rdquo; 2019.03&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>渦、それはパーティー</title>
+      <link>https://tkrtkr.com/ja/project/voltex/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/voltex/</guid>
+      <description>&lt;h1 id=&#34;キャプション&#34;&gt;キャプション&lt;/h1&gt;
+&lt;p&gt;最後に見た「渦」は何でしたか？&lt;/p&gt;
+&lt;p&gt;竜巻？渦潮？人の渦？興奮の渦？銀河？&lt;/p&gt;
+&lt;p&gt;「渦」はそこにはないようです。&lt;/p&gt;
+&lt;p&gt;「渦」とは何でしょうか？&lt;/p&gt;
+&lt;p&gt;物？形？流れ？動き？現象？&lt;/p&gt;
+&lt;p&gt;あなたは渦のそばにいます。&lt;/p&gt;
+&lt;p&gt;あなたは渦を作っています。&lt;/p&gt;
+&lt;p&gt;あなたは渦の一部かもしれません。&lt;/p&gt;
+&lt;p&gt;渦はそれを自覚しているでしょうか。
+彼を彼たらしめる「個」とは。&lt;/p&gt;
+&lt;p&gt;個はそれを自覚しているでしょうか。&lt;/p&gt;
+&lt;p&gt;彼が作った渦を。&lt;/p&gt;
+&lt;p&gt;それらは一つではありません。&lt;/p&gt;
+&lt;p&gt;それらは皆、一つの渦を作っています。&lt;/p&gt;
+&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;制作：&lt;a href=&#34;https://sunagimon.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;宇川拓人&lt;/a&gt;・橋本 健&lt;/p&gt;
+&lt;p&gt;展示：東京大学制作展2018 Dest-logy REBUILD&lt;/p&gt;
+&lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yKECm-Tng5M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h1 id=&#34;技術&#34;&gt;技術&lt;/h1&gt;
+&lt;p&gt;手で渦を描くと、水槽内に渦が発生する作品です。&lt;/p&gt;
+&lt;p&gt;Leap Motionを使用して、手で渦を描く動きを認識します。&lt;/p&gt;
+&lt;p&gt;水槽の下に設置された2つの水流発生ポンプと底部の穴を制御することで、渦の発生と消滅のメカニズムを実現しています。&lt;/p&gt;
+&lt;h1 id=&#34;コメント&#34;&gt;コメント&lt;/h1&gt;
+&lt;p&gt;DJのスクラッチのように空中で渦を描きます。
+自分だけの渦を作り、その中に身を委ねてください。&lt;/p&gt;
+&lt;p&gt;実際に水に触れることなく渦を作ることができ、不思議ながらも自然な感覚を味わえます。&lt;/p&gt;
+&lt;h1 id=&#34;メディア&#34;&gt;メディア&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学広報誌 淡青&lt;/a&gt; vol.38 特集「東大のアート、アートの東大。」 2019.03&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>スマートコントローラー</title>
+      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
+&lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
+&lt;p&gt;詳細については以下の2つの記事（日本語）をご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/6099d3ace9ec3e26d571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;RaspberryPiで自宅のシーリングライトに目覚まし機能をつけてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/41eb122dcb0feda0eae7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Bottle.pyでRaspberry PiをWebサーバにしてLINEと連携させてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;raspberry-piから家電を操作&#34;&gt;Raspberry Piから家電を操作&lt;/h2&gt;
+&lt;p&gt;赤外線受信機を使用して、RaspberryPiに家電のリモコンの信号を記憶させました。&lt;/p&gt;
+&lt;p&gt;RaspberryPiのGPIOを使用して、赤外線LEDを制御し、学習した信号を送信して家電を操作できます。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/ee003708-e39b-3bf7-df78-3144582400a8.png&#34; alt=&#34;image.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;lineボット&#34;&gt;LINEボット&lt;/h2&gt;
+&lt;p&gt;LINE Messaging APIを使用して、ユーザーのメッセージに応答するボットを作成しました。&lt;/p&gt;
+&lt;p&gt;このボットを通じてRaspberry Piを操作できます。&lt;/p&gt;
+&lt;h2 id=&#34;lineからraspberry-piを制御&#34;&gt;LINEからRaspberry Piを制御&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PythonのWebサーバー構築フレームワークであるBottleを使用して、RaspberryPi上にWebサーバーを構築
+&lt;ul&gt;
+&lt;li&gt;ngrokというサービスを使用して、自宅のLAN外からWebサーバーにアクセス可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Raspberry Pi上に、httpリクエストに応じてRaspberry Piから家電に信号を送信するWebアプリケーションを作成・実装
+&lt;ul&gt;
+&lt;li&gt;LINE Messaging APIからのWebhookで送信されるhttpリクエストを処理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;LINE Messaging APIを使用して、ユーザーのメッセージに応答するボットを作成
+&lt;ul&gt;
+&lt;li&gt;このボットを通じてRaspberry Piを制御可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/6500d2ae-021f-10ff-bea6-a262de4dd930.gif&#34; width=&#34;200&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>注意誘導リーディング</title>
+      <link>https://tkrtkr.com/ja/project/touchscreen/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>https://tkrtkr.com/ja/project/touchscreen/</guid>
+      <description>&lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
+&lt;p&gt;タッチスクリーン操作におけるスワイプ操作において、指の動きに対する画面の動きを変更することで、ユーザーの注意を画面上の特定の項目に誘導します。&lt;/p&gt;
+&lt;p&gt;この操作は、類似したコンテンツのリストビューにおいて、操作のあったコンテンツの方が操作のないコンテンツよりも記憶されやすいことを示しています。&lt;/p&gt;
+&lt;p&gt;最近、ニュースアプリやマンガアプリなどでリストビューに広告を配置する方法が見られますが、そのような広告分野への応用や、教科書や参考書の重要な部分を効率的に記憶するための応用が考えられます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jstage.jst.go.jp/article/tvrsj/23/3/23_139/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;詳細論文（日本語）&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magic Table</title>
+      <link>https://tkrtkr.com/ja/project/magic_table/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/magic_table/</guid>
+      <description>&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
+&lt;p&gt;external_link: &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;image:
+caption: SIGGRAPH Asia 2017 Emerging Technology
+focal_point: Smart&lt;/p&gt;
+&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-project-with-markdown-slides&#34;&gt;Associate this project with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references-contentslidesexample-slidesmd&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rubik&#39;s Cube Solver</title>
+      <link>https://tkrtkr.com/ja/project/rubikcube/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/project/rubikcube/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Created in an project (class) of the Department of Mechanical and Information Engineering, Faculty of Engineering.&lt;/p&gt;
+&lt;p&gt;It uses two webcams to recognize the initial state of a Rubik&amp;rsquo;s cube and derives a solution using an existing solver. The six arms are rotated according to the method to complete the Rubik&amp;rsquo;s Cube.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
