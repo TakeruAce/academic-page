@@ -1,6 +1,6 @@
 ---
-title: Selfrionette / セルフリオネット
-summary: 最小限の動作で”全身”を動かし，多様な触感を感じる
+title: セルフリオネット / Selfrionette
+summary: 最小限の動作で"全身"を動かし，多様な触感を感じる
 tags:
 - research
 date: "2024-09-27T00:00:00Z"
@@ -38,7 +38,7 @@ image:
 
 ---
 
-## 主な特徴
+## 技術詳細
 ### 1. 指先の力入力
 Selfrionetteは、**片手で7つのシングルビームロードセル**を使用して指先の力を測定します。このセンサーは球形の筐体に組み込まれており、自然な手の姿勢で操作が可能です。各ロードセルは最大**20kgの力**を検出でき、HX711チップを用いて**80Hz**でデジタル信号に変換し、マイクロコントローラで読み取っています。
 
@@ -128,6 +128,11 @@ $$ {{< /math >}}
 - **著者**: Takeru Hashimoto, Yutaro Hirao  
 - [論文URL](https://doi.org/10.1145/3654777.3676409)
 
+### SIGGRAPH Asia 2024  
+- **タイトル**:A Demonstration of Selfrionette: A Force-Input Controller for Continuous Full-Body Avatar Manipulation and Enhanced Virtual Haptics
+- **著者**: Yutaro Hirao, Takeru Hashimoto
+- [論文URL](https://doi.org/10.1145/3681755.3688943)
+
 ### VRSJ 2024  
 - **タイトル**:セルフリオネット：指先力入力システムによる全身アバタ操作と多様な触覚インタラクションの実現
 - **著者**: 平尾悠太朗、橋本健 
@@ -135,14 +140,25 @@ $$ {{< /math >}}
 
 --- 
 
+## 受賞・採択
+**Best Demo in Show Award**, SIGGRAPH Asia 2024
+
+**ACM SIGGRAPH Special Prize**, INTERBEE x DCEXPO 2024
+
+**NEDO賞**, INTERBEE x DCEXPO 2024
+
+[経済産業省 令和6年度コンテンツ海外展開促進事業先端テクノロジー 社会実装プログラム（TIP） 採択](https://dcaj-techbiz.com/tip/tip_2024_6612/)
+
+[NEDO Entrepreneurs Program 2025年度 開拓コース 採択](https://nep.nedo.go.jp/selected/603e73ef-27e7-43b8-835e-6ada8894640d?fbclid=IwY2xjawK00v5leHRuA2FlbQIxMABicmlkETFmOWw4NjZZYkJCYk45VVdXAR7rMX5XYFK19gS2GGjr_gUSq10ANTxJmqf-hkfGlqVnT1wCxCmQKyP8lMfUyg_aem_IlPrSBwRR3VU-h9mTB9uaA)
+
+--- 
 ## メディア、取材
 
-### 電波新聞
+電波新聞
 [【「五感」を創る コンテンツ制作の今】　指先だけでアバター操作、触覚も再現　「セルフリオネット」で新たなVR体験提供へ](https://dempa-digital.com/article/607509)
 
 ### 日刊工業新聞
 [指だけでアバター操作　奈良先端大とソニーCSL、コントローラー開発](https://www.nikkan.co.jp/articles/view/00733970)
-
 
 ### DC EXPO 2024 有野いくさん体験レポート
 {{<youtube PcH3ritX4tM>}}
@@ -150,6 +166,5 @@ $$ {{< /math >}}
 
 --- 
 
-## Demonstrations
-[Maker Faire Kyoto 2024](https://makezine.jp/event/makers-mfk2024/m0101/
-)
+## デモ展示
+[Maker Faire Kyoto 2024](https://makezine.jp/event/makers-mfk2024/m0101/)

@@ -606,6 +606,7 @@
       "associate-this-project-with-markdown-slides",
       "avatar-motion-generation-equation",
       "award",
+      "awards-and-grants",
       "caption",
       "code",
       "comment",
@@ -667,6 +668,7 @@
       "share-link-whatsapp",
       "share-link-x",
       "show-button",
+      "siggraph-asia-2024",
       "simply-enter-your-slide-decks-filename-without-extension",
       "site-header",
       "slides-optional",
@@ -687,13 +689,15 @@
       "コンセプト",
       "コンセプト力覚アバター",
       "システム",
+      "デモ展示",
       "ハードウェア",
       "メディア",
       "メディア取材",
-      "主な特徴",
       "動画",
+      "受賞採択",
       "受賞歴",
       "技術",
+      "技術詳細",
       "日刊工業新聞",
       "概要",
       "簡単な解説記事",
@@ -702,8 +706,7 @@
       "触覚の追加力",
       "計算論的知覚モデル",
       "論文情報",
-      "身体運動再構成",
-      "電波新聞"
+      "身体運動再構成"
     ]
   }
 }

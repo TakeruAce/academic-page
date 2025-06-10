@@ -130,10 +130,28 @@ This allows users to feel soft objects and elastic materials realistically.
 - **Authors**: Takeru Hashimoto, Yutaro Hirao  
 - [Paper URL](https://doi.org/10.1145/3654777.3676409)
 
+### SIGGRAPH Asia 2024  
+- **Title**: A Demonstration of Selfrionette: A Force-Input Controller for Continuous Full-Body Avatar Manipulation and Enhanced Virtual Haptics
+- **Authors**: Yutaro Hirao, Takeru Hashimoto
+- [Paper URL](https://doi.org/10.1145/3681755.3688943)
+
 ### VRSJ 2024  
-- **Title**: Selfrionette: Realizing Full-Body Avatar Manipulation and Diverse Haptic Interactions with Fingertip Force Input  
-- **Authors**: Yutaro Hirao, Takeru Hashimoto  
+- **Title**: Selfrionette: Realizing Full-Body Avatar Manipulation and Diverse Haptic Interactions with Fingertip Force Input
+- **Authors**: Yutaro Hirao, Takeru Hashimoto
 - [Paper URL](https://conference.vrsj.org/ac2024/program/doc/3G-22.pdf)
+
+--- 
+
+## Awards and Grants
+**Best Demo in Show Award**, SIGGRAPH Asia 2024
+
+**ACM SIGGRAPH Special Prize**, INTERBEE x DCEXPO 2024
+
+**NEDO Award**, INTERBEE x DCEXPO 2024
+
+[Selected for METI's TIP Program (Technology Implementation Program) for Overseas Content Development](https://dcaj-techbiz.com/tip/tip_2024_6612/)
+
+[Selected for NEDO Entrepreneurs Program 2025 Pioneer Course](https://nep.nedo.go.jp/selected/603e73ef-27e7-43b8-835e-6ada8894640d?fbclid=IwY2xjawK00v5leHRuA2FlbQIxMABicmlkETFmOWw4NjZZYkJCYk45VVdXAR7rMX5XYFK19gS2GGjr_gUSq10ANTxJmqf-hkfGlqVnT1wCxCmQKyP8lMfUyg_aem_IlPrSBwRR3VU-h9mTB9uaA)
 
 --- 
 

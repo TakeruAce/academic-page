@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>Selfrionette / セルフリオネット</title>
+      <title>セルフリオネット / Selfrionette</title>
       <link>https://tkrtkr.com/ja/project/selfrionette/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://tkrtkr.com/ja/project/selfrionette/</guid>
@@ -124,7 +124,7 @@
  --&gt;
 &lt;p&gt;&lt;em&gt;Selfrionetteを用いてVR環境内のオブジェクトとインタラクションする様子&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;主な特徴&#34;&gt;主な特徴&lt;/h2&gt;
+&lt;h2 id=&#34;技術詳細&#34;&gt;技術詳細&lt;/h2&gt;
 &lt;h3 id=&#34;1-指先の力入力&#34;&gt;1. 指先の力入力&lt;/h3&gt;
 &lt;p&gt;Selfrionetteは、&lt;strong&gt;片手で7つのシングルビームロードセル&lt;/strong&gt;を使用して指先の力を測定します。このセンサーは球形の筐体に組み込まれており、自然な手の姿勢で操作が可能です。各ロードセルは最大&lt;strong&gt;20kgの力&lt;/strong&gt;を検出でき、HX711チップを用いて&lt;strong&gt;80Hz&lt;/strong&gt;でデジタル信号に変換し、マイクロコントローラで読み取っています。&lt;/p&gt;
 &lt;h4 id=&#34;自由度dof&#34;&gt;自由度（DoF）:&lt;/h4&gt;
@@ -224,6 +224,12 @@ $$
 &lt;li&gt;&lt;strong&gt;著者&lt;/strong&gt;: Takeru Hashimoto, Yutaro Hirao&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3654777.3676409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文URL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;siggraph-asia-2024&#34;&gt;SIGGRAPH Asia 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;タイトル&lt;/strong&gt;:A Demonstration of Selfrionette: A Force-Input Controller for Continuous Full-Body Avatar Manipulation and Enhanced Virtual Haptics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;著者&lt;/strong&gt;: Yutaro Hirao, Takeru Hashimoto&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3681755.3688943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文URL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;vrsj-2024&#34;&gt;VRSJ 2024&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;タイトル&lt;/strong&gt;:セルフリオネット：指先力入力システムによる全身アバタ操作と多様な触覚インタラクションの実現&lt;/li&gt;
@@ -231,9 +237,16 @@ $$
 &lt;li&gt;&lt;a href=&#34;https://conference.vrsj.org/ac2024/program/doc/3G-22.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文URL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;受賞採択&#34;&gt;受賞・採択&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Best Demo in Show Award&lt;/strong&gt;, SIGGRAPH Asia 2024&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ACM SIGGRAPH Special Prize&lt;/strong&gt;, INTERBEE x DCEXPO 2024&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NEDO賞&lt;/strong&gt;, INTERBEE x DCEXPO 2024&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dcaj-techbiz.com/tip/tip_2024_6612/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;経済産業省 令和6年度コンテンツ海外展開促進事業先端テクノロジー 社会実装プログラム（TIP） 採択&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nep.nedo.go.jp/selected/603e73ef-27e7-43b8-835e-6ada8894640d?fbclid=IwY2xjawK00v5leHRuA2FlbQIxMABicmlkETFmOWw4NjZZYkJCYk45VVdXAR7rMX5XYFK19gS2GGjr_gUSq10ANTxJmqf-hkfGlqVnT1wCxCmQKyP8lMfUyg_aem_IlPrSBwRR3VU-h9mTB9uaA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEDO Entrepreneurs Program 2025年度 開拓コース 採択&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;メディア取材&#34;&gt;メディア、取材&lt;/h2&gt;
-&lt;h3 id=&#34;電波新聞&#34;&gt;電波新聞&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://dempa-digital.com/article/607509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【「五感」を創る コンテンツ制作の今】　指先だけでアバター操作、触覚も再現　「セルフリオネット」で新たなVR体験提供へ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;電波新聞
+&lt;a href=&#34;https://dempa-digital.com/article/607509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【「五感」を創る コンテンツ制作の今】　指先だけでアバター操作、触覚も再現　「セルフリオネット」で新たなVR体験提供へ&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;日刊工業新聞&#34;&gt;日刊工業新聞&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nikkan.co.jp/articles/view/00733970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;指だけでアバター操作　奈良先端大とソニーCSL、コントローラー開発&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;dc-expo-2024-有野いくさん体験レポート&#34;&gt;DC EXPO 2024 有野いくさん体験レポート&lt;/h3&gt;
@@ -242,7 +255,7 @@ $$
     &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;h2 id=&#34;demonstrations&#34;&gt;Demonstrations&lt;/h2&gt;
+&lt;h2 id=&#34;デモ展示&#34;&gt;デモ展示&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://makezine.jp/event/makers-mfk2024/m0101/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maker Faire Kyoto 2024&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
