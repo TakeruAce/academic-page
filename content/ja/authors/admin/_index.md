@@ -24,7 +24,7 @@ role: プロジェクト研究員
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SonyCSL Cybernetic Humanity
+  - name: SonyCSL "Cybernetic Humanity" Lab
     url: https://shunichikasahara.com/
 
 # Social network links
@@ -87,6 +87,22 @@ education:
       - Pythonによる応用AIと機械学習
       - ROSによるロボットプログラミングと制御システム
 work:
+  - position: プロジェクト研究員
+    company_name: ソニーコンピュータサイエンス研究所
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 
+    summary: |
+      [Cybernetic Humanity Lab](https://shunichikasahara.com/)で人間とAIの物理的な融合に関する研究を行っています。
+  - position: 特任助教
+    company_name: 東京大学
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2025-03-31
+    summary: |
+      [Cyber Interface Lab](https://www.cyber.t.u-tokyo.ac.jp/ja)で力覚インタフェースを通じた認知・身体変容の研究に取り組みました。
   - position: 研究インターン
     company_name: ソニーコンピュータサイエンス研究所
     company_url: ''
@@ -94,7 +110,7 @@ work:
     date_start: 2022-01-01
     date_end: 2023-09-01
     summary: |
-      [Cybernetic Humanity Lab](https://shunichikasahara.com/)で人間と機械の統合に関する研究を行いました。
+      [Cybernetic Humanity Lab](https://shunichikasahara.com/)で人間と機械の融合に関する研究を行いました。
   - position: プロトタイプエンジニア
     company_name: MPLUSPLUS株式会社
     company_url: 'https://www.mplpl.com/'
@@ -182,13 +198,13 @@ awards:
     date: '2024-12-06'
     awarder: ACM SIGGRAPH Asia
     icon: 
-    summary: SIGGRAPH Asia 2024 Emerging TechnologiesでのSelfrionetteのデモンストレーション。
+    summary: SIGGRAPH Asia 2024 Emerging TechnologiesでのSelfrionetteのデモンストレーション
   - title: ACM SIGGRAPH特別賞
     url: 
     date: '2024-11-15'
     awarder: DCEXPO
     icon: 
-    summary: INTERBEE x DCEXPO 2024でのSelfrionetteのデモンストレーション。
+    summary: INTERBEE x DCEXPO 2024でのSelfrionetteのデモンストレーション
   - title: NEDO賞
     url: 
     date: '2024-11-15'
@@ -210,7 +226,7 @@ awards:
     awarder: ACM UIST 2022
     icon: 
     summary: |
-      MetamorphXプロジェクトのデモンストレーションに対して。
+      MetamorphXプロジェクトのデモンストレーション
   - title: 学術奨励賞
     url: 
     certificate_url: 
@@ -218,6 +234,7 @@ awards:
     awarder: 日本バーチャルリアリティ学会
     icon: 
     summary: |
+      MetamorphXプロジェクトの先駆けとなる力覚インタフェースのデモンストレーション
 
   - title: 'Best Paper Honorable Mentions Award'
     url: 
@@ -226,9 +243,9 @@ awards:
     awarder: ACM CHI 2019
     icon: 
     summary: |
-      Transcaliburプロジェクトの論文に対して。
+      Transcaliburプロジェクトの論文
 ---
 
-## 自己紹介
+## About Me
 
-橋本健は現在、ソニーCSLのプロジェクト研究員として勤務しています。東京大学大学院でコンピュータサイエンス、ヒューマンコンピュータインタラクション、ロボット工学を研究していました。2023年に博士（情報理工学）、2020年に修士（情報理工学）、2018年に学士（機械情報学）を東京大学から取得しました。受賞歴には日本バーチャルリアリティ学会学術奨励賞やSIGCHI Best Paper Honorable Mentions Awardなどがあります。現在の研究分野は、力覚フィードバックを用いた現実感の拡張と人間の拡張です。
+橋本健は現在、ソニーCSLのプロジェクト研究員として勤務しています。東京大学でコンピュータサイエンス、ヒューマンコンピュータインタラクション、ロボット工学を学び，それらを統合してウェアラブルな力覚インタフェースの作製やそれが引き起こす知覚・認知の変容の研究を行っていました。2023年に博士（情報理工学）、2020年に修士（情報理工学）、2018年に学士（機械情報学）を東京大学から取得しています。受賞歴には日本バーチャルリアリティ学会学術奨励賞やSIGCHI Best Paper Honorable Mentions Award等があります。現在の研究分野は、力覚フィードバックを用いた現実感の拡張（バーチャルリアリティ）と人間の拡張です。

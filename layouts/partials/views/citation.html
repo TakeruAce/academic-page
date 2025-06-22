@@ -1,0 +1,77 @@
+{{ $item := .item }}
+{{ $fill_image := .config.fill_image | default false }}
+
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+    <div class="parallel_parent" style="display: flex;gap: 3rem; align-items: center;">
+    {{ with $resource }}
+    {{ $image := "" }}
+    {{if $fill_image}}
+        {{ $image = .Fit (printf "960x540 %s" $anchor) }}
+    {{else}}
+        {{ $image = .Fit (printf "960x540 %s" $anchor) }}
+    {{end}}
+    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+        <div class="image_wrapper rounded-md" style="flex: 1 1 0%; background-color: white;padding: 0.5rem;">
+            <div class="overflow-hidden rounded-md transition-all">
+                <img alt="{{ $item.Title | plainify }}"
+                    class="{{if $fill_image}}object-fill{{else}}object-contain{{end}} transition-all"
+                    data-nimg="fill"
+                    decoding="async"
+                    fetchpriority="high" height="{{ $image.Height }}" loading="lazy" src="{{ $image.RelPermalink }}"
+                    style="inset: 0px; color: transparent;"
+                    width="{{ $image.Width }}"/>
+            </div>
+        </div>
+        {{end}}
+        <div class="parallel" style="flex: 4 1 0%;">
+            <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+            {{/* APA Style */}}
+
+            {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+            <span class="article-metadata li-cite-author">
+                {{ partial "page_metadata_authors" $item }}
+            </span>
+            ({{- $item.Date.Format "2006" -}}).
+            {{ $item.Title }}.
+            {{ if $item.Params.publication_short }}
+                {{- $item.Params.publication_short | markdownify -}}.
+            {{ else if $item.Params.publication }}
+                {{- $item.Params.publication | markdownify -}}.
+            {{ end }}
+            <!-- <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p> -->
+            <p>
+                {{ with $item.Params.doi }}
+                <a class="hb-attachment-link hb-attachment-small transition-all hover:scale-105" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+                    Go to Paper
+                </a>
+                {{ end }}
+            </p>
+
+            {{/* MLA Style */}}
+            {{ else }}
+
+            <span class="article-metadata li-cite-author">
+                {{ partial "page_metadata_authors" $item }}.
+            </span>
+            <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+            {{ if $item.Params.publication_short }}
+                {{- $item.Params.publication_short | markdownify -}},
+            {{ else if $item.Params.publication }}
+                {{- $item.Params.publication | markdownify -}},
+            {{ end }}
+            {{- $item.Date.Format "2006" -}}.
+
+            {{ if $has_attachments }}
+            <div class="btn-links">
+                {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</div>

@@ -38,33 +38,49 @@ sections:
       subtitle: ''
       text: |-
         Traditionally, our bodies have defined the edges of our perception, cognition, and capability. Yet as technology evolves, these once-fixed boundaries can be transcended. Beyond Physicality explores how we might re-envision the human body not as a static, biologically given form, but as a customizable, dynamic interface to interact with the world. In this new paradigm, the body becomes something we can extend, reshape, and even “swap,” allowing us to question the nature of our physical presence and identity.
+  # - block: collection
+  #   id: featured_project
+  #   content:
+  #     title: Featured Projects
+  #     text: I enjoy making things. Here are a selection of projects that I have worked on over the years. Link to All Project.
+  #     filters:
+  #       folders:
+  #         - project
+  #       featured_only: true
+  #     count: 6
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  #     fill_image: true
   - block: collection
-    id: featured_project
+    id: project
     content:
-      title: Featured Projects
+      title: Projects
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      count: 4
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
-      fill_image: true
+      fill_image: true  
     
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+    # design:
+    #   view: article-grid
+    #   columns: 2
+    #   fill_image: true
   - block: collection
     id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-      fill_image: true
-  - block: collection
     content:
       title: Recent Publications
       text: ""

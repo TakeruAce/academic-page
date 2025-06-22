@@ -24,7 +24,7 @@ role: Project Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SonyCSL Cybernetic Humanity Team
+  - name: SonyCSL "Cybernetic Humanity" Lab
     url: https://shunichikasahara.com/
 
 # Social network links
@@ -87,6 +87,22 @@ education:
       - Applied AI and Machine Learning in Python
       - Robotics Programming and Control Systems with ROS
 work:
+  - position: Post-doc Researcher
+    company_name: Sony Computer Science Laboratories
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 
+    summary: |
+      Research about human machine integration at [Cybernetic Humanity Lab](https://shunichikasahara.com/)
+  - position: Project Assistant Professor
+    company_name: The University of Tokyo
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2025-03-31
+    summary: |
+      Reseach about the change of human perception and cognition of their body through haptic feedback at [Cyber Interface Lab](https://www.cyber.t.u-tokyo.ac.jp/ja)
   - position: Research Intern
     company_name: Sony Computer Science Laboratories
     company_url: ''

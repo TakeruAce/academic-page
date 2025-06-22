@@ -40,35 +40,49 @@ sections:
         従来、私たちの肉体は私たち自身の知覚、認知、能力の境界を定義してきました。しかし、テクノロジーが進歩するにつれ、これら固定されていた境界を超えることができます。
         Beyond Physicalityは、人間の身体を静的で生物学的なモノとしてではなく、世界と相互作用するための動的でカスタマイズ可能なインターフェースとして再構想する方法を探求します。
         この新しいパラダイムでは、身体は拡張、再形成、さらには「交換」さえ可能なものとなり、私たちの物理的な存在とアイデンティティの本質に問いかけるものになるでしょう。
+  # - block: collection
+  #   id: featured_project
+  #   content:
+  #     title: 注目のプロジェクト
+  #     text: 私はものづくりを楽しんでいます。以下は、これまでに取り組んできたプロジェクトの一部です。
+  #     filters:
+  #       folders:
+  #         - project
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  #     fill_image: true
   - block: collection
-    id: featured_project
+    id: project
     content:
-      title: 注目のプロジェクト
-      text: 私はものづくりを楽しんでいます。以下は、これまでに取り組んできたプロジェクトの一部です。
+      title: プロジェクト
+      text: 私はものづくりを楽しんでいます。
+      count: 4
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
-      fill_image: true
+      fill_image: true  
     
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: 注目すべき論文
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  #     fill_image: true
   - block: collection
-    id: papers
     content:
-      title: 注目すべき論文
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-      fill_image: true
-  - block: collection
-    content:
-      title: 最近の論文
+      title: 学術論文
       text: ""
       filters:
         folders:
