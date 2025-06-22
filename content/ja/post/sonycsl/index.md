@@ -8,6 +8,7 @@ tags:
   - Event
 image:
   caption: 
+include_content: true
 ---
 所属はSonyCSLですが、勤務先はOISTです。
 それに伴い、拠点を沖縄県に移動しました。

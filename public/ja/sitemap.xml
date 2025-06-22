@@ -30,6 +30,60 @@
                 href="https://tkrtkr.com/ja/event/"
                 />
   </url><url>
+    <loc>https://tkrtkr.com/ja/post/shonan_seminar/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tkrtkr.com/ja/tags/event/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/tags/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/tags/event/"
+                />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/post/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/post/"
+                />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/tags/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/tags/"
+                />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/post/202504chi/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tkrtkr.com/ja/post/202503access/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tkrtkr.com/ja/publication_types/article-journal/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,34 +166,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/tags/award/"
-                />
-  </url><url>
-    <loc>https://tkrtkr.com/ja/post/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/post/"
-                />
-  </url><url>
-    <loc>https://tkrtkr.com/ja/tags/</loc>
-    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/"
                 />
   </url><url>
     <loc>https://tkrtkr.com/ja/publication/hirao-2024-br/</loc>
@@ -240,6 +266,24 @@
                 href="https://tkrtkr.com/ja/publication/hashiura-2024-te/"
                 />
   </url><url>
+    <loc>https://tkrtkr.com/ja/post/202410uist/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tkrtkr.com/ja/post/tvrsj2024/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/post/tvrsj2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/post/tvrsj2024/"
+                />
+  </url><url>
     <loc>https://tkrtkr.com/ja/tags/body-reconstruction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -281,6 +325,10 @@
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/tags/haptics/"
                 />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/tags/paper/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tkrtkr.com/ja/publication/hashimoto-2024-dl/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
@@ -352,20 +400,6 @@
                 href="https://tkrtkr.com/ja/post/sonycsl/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/ja/tags/event/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/tags/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/event/"
-                />
-  </url><url>
     <loc>https://tkrtkr.com/ja/post/johosyori/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -393,6 +427,10 @@
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/projects/"
                 />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/post/202404makerfair/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tkrtkr.com/ja/publication/hashimoto-2023-dw/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
@@ -490,20 +528,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/teaching/"
-                />
-  </url><url>
-    <loc>https://tkrtkr.com/ja/post/tvrsj2024/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/post/tvrsj2024/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/post/tvrsj2024/"
                 />
   </url><url>
     <loc>https://tkrtkr.com/ja/post/utokyo/</loc>

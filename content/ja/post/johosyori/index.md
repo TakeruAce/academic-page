@@ -8,7 +8,9 @@ tags:
   - Award
 image:
   caption: 
+include_content: true
+
 ---
 
-## 簡単な解説記事
+## 簡単な解説記事は以下で読めます。
 https://note.com/ipsj/n/n2d3b470ce5f4

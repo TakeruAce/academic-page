@@ -51,6 +51,7 @@ interests:
   - Body Reconstraction
   - Human Augmentation via Haptics
   - Human AI Integration
+  - Resilience of Self
 
 education:
   - area: Ph.D. in Information Science and Technology

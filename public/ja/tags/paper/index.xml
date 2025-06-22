@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper | 橋本 健</title>
+    <link>https://tkrtkr.com/ja/tags/paper/</link>
+      <atom:link href="https://tkrtkr.com/ja/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <title>Paper</title>
+      <link>https://tkrtkr.com/ja/tags/paper/</link>
+    </image>
+    
+    <item>
+      <title>📄 日本バーチャルリアリティ学会に論文誌が採択されました！</title>
+      <link>https://tkrtkr.com/ja/post/tvrsj2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tkrtkr.com/ja/post/tvrsj2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
