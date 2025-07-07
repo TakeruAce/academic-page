@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Body Reconstruction | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/tags/body-reconstruction/</link>
-      <atom:link href="http://localhost:1313/tags/body-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/tags/body-reconstruction/</link>
+      <atom:link href="https://tkrtkr.com/tags/body-reconstruction/index.xml" rel="self" type="application/rss+xml" />
     <description>Body Reconstruction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Body Reconstruction</title>
-      <link>http://localhost:1313/tags/body-reconstruction/</link>
+      <link>https://tkrtkr.com/tags/body-reconstruction/</link>
     </image>
     
     <item>
       <title>Selfrionette: A fingertip force-input controller for continuous full-body avatar manipulation and diverse haptic interactions</title>
-      <link>http://localhost:1313/publication/hashimoto-2024-dl/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2024-dl/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2024-dl/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2024-dl/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>橋本 健</title>
-    <link>http://localhost:1313/ja/</link>
-      <atom:link href="http://localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/ja/</link>
+      <atom:link href="https://tkrtkr.com/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>橋本 健</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_60fecd9a00084dec.png</url>
       <title>橋本 健</title>
-      <link>http://localhost:1313/ja/</link>
+      <link>https://tkrtkr.com/ja/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/ja/event/example/</link>
+      <link>https://tkrtkr.com/ja/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/event/example/</guid>
+      <guid>https://tkrtkr.com/ja/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>🌐湘南学術会議（Human-Computer-Interfaces x Neuroscience）に参加します！</title>
-      <link>http://localhost:1313/ja/post/shonan_seminar/</link>
+      <link>https://tkrtkr.com/ja/post/shonan_seminar/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/shonan_seminar/</guid>
+      <guid>https://tkrtkr.com/ja/post/shonan_seminar/</guid>
       <description>&lt;p&gt;シニアの先生方が多くて楽しみです！
 &lt;a href=&#34;https://shonan.nii.ac.jp/seminars/216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shonan.nii.ac.jp/seminars/216/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -45,9 +45,9 @@
     
     <item>
       <title>🌐 CHI2025に参加しました！</title>
-      <link>http://localhost:1313/ja/post/202504chi/</link>
+      <link>https://tkrtkr.com/ja/post/202504chi/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/202504chi/</guid>
+      <guid>https://tkrtkr.com/ja/post/202504chi/</guid>
       <description>&lt;p&gt;今回は日本開催ということもあり、フルペーパーはありませんでしたがWorkshopで発表してきました！
 ACM CHI 2025 Workshop, Sensorimotor Devices: Coupling Sensing and Actuation to Augment Bodily Experience.
 でSomatoShiftを紹介しつつ，領域の方に体験してもらったのはいい機会だったと思います。
@@ -55,11 +55,11 @@ ACM CHI 2025 Workshop, Sensorimotor Devices: Coupling Sensing and Actuation to A
 Jugenと話せたのも良かった。
 領域でのプレゼンスを上げていきたいと感じた。&lt;/p&gt;
 &lt;p&gt;デモの様子
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/chi2025/img2.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/chi2025/img2.gif&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;WS
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/chi2025/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/chi2025/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -67,73 +67,73 @@ Jugenと話せたのも良かった。
     
     <item>
       <title>📄 IEEE Accessに論文誌が採択されました！</title>
-      <link>http://localhost:1313/ja/post/202503access/</link>
+      <link>https://tkrtkr.com/ja/post/202503access/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/202503access/</guid>
+      <guid>https://tkrtkr.com/ja/post/202503access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Impedance Control on Haptic Perception of Object Properties: A qualitative and quantitative approach</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2025-vq/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2025-vq/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2025-vq/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2025-vq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ SIGGRAPH Asia 2024でBest Demo in Show Awardを受賞しました！</title>
-      <link>http://localhost:1313/ja/post/siggraph/</link>
+      <link>https://tkrtkr.com/ja/post/siggraph/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/siggraph/</guid>
+      <guid>https://tkrtkr.com/ja/post/siggraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A demonstration of selfrionette: A force-input controller for continuous full-body avatar manipulation and enhanced virtual haptics</title>
-      <link>http://localhost:1313/ja/publication/hirao-2024-br/</link>
+      <link>https://tkrtkr.com/ja/publication/hirao-2024-br/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hirao-2024-br/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hirao-2024-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AgiLimb: Embodied agile robotic arm by integrating digital reflex and seamless action takeover</title>
-      <link>http://localhost:1313/ja/publication/kawashima-2024-mf/</link>
+      <link>https://tkrtkr.com/ja/publication/kawashima-2024-mf/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/kawashima-2024-mf/</guid>
+      <guid>https://tkrtkr.com/ja/publication/kawashima-2024-mf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ヒトの動作に連動した非接地の力フィードバックによる把持物体の多様な物性提示システム</title>
-      <link>http://localhost:1313/ja/publication/qiao-ben-2024-gr/</link>
+      <link>https://tkrtkr.com/ja/publication/qiao-ben-2024-gr/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/qiao-ben-2024-gr/</guid>
+      <guid>https://tkrtkr.com/ja/publication/qiao-ben-2024-gr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ INTERBEE x DCEXPO 2024でSIGGRAPH Special Prize AwardとNEDO賞をダブル受賞しました！</title>
-      <link>http://localhost:1313/ja/post/interbee/</link>
+      <link>https://tkrtkr.com/ja/post/interbee/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/interbee/</guid>
+      <guid>https://tkrtkr.com/ja/post/interbee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bridging player intentions: Exploring the potential of synchronized haptic controllers in multiplayer game</title>
-      <link>http://localhost:1313/ja/publication/hashiura-2024-te/</link>
+      <link>https://tkrtkr.com/ja/publication/hashiura-2024-te/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashiura-2024-te/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashiura-2024-te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🌐 UIST2024に参加しました！</title>
-      <link>http://localhost:1313/ja/post/202410uist/</link>
+      <link>https://tkrtkr.com/ja/post/202410uist/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/202410uist/</guid>
+      <guid>https://tkrtkr.com/ja/post/202410uist/</guid>
       <description>&lt;p&gt;USのピッツバーグで筆頭共著の平尾くんと共にSelfrionetteの口頭発表とデモをやってきました！&lt;/p&gt;
 &lt;p&gt;口頭発表ではUISTお馴染みのライブデモにトライしましたが，上手くいかず。
 なかなか際どい体験でしたが、心臓は強くなりました。
@@ -142,11 +142,11 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
 &lt;p&gt;あわよくば他のデモも回りたかったけど、時間がなかった。
 デモ展示者は他のデモ体験できないのはあるあるですね。うまいシステムは作れないだろうか。&lt;/p&gt;
 &lt;p&gt;デモの様子
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/uist2024/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/uist2024/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;激混みレセプション．参加人数過去最多だったそう．
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/uist2024/img2.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/uist2024/img2.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -154,25 +154,25 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
     
     <item>
       <title>📄 日本バーチャルリアリティ学会に論文誌が採択されました！</title>
-      <link>http://localhost:1313/ja/post/tvrsj2024/</link>
+      <link>https://tkrtkr.com/ja/post/tvrsj2024/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/tvrsj2024/</guid>
+      <guid>https://tkrtkr.com/ja/post/tvrsj2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selfrionette: A fingertip force-input controller for continuous full-body avatar manipulation and diverse haptic interactions</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2024-dl/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2024-dl/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2024-dl/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2024-dl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>セルフリオネット / Selfrionette</title>
-      <link>http://localhost:1313/ja/project/selfrionette/</link>
+      <link>https://tkrtkr.com/ja/project/selfrionette/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/selfrionette/</guid>
+      <guid>https://tkrtkr.com/ja/project/selfrionette/</guid>
       <description>&lt;h1 id=&#34;30秒のプロジェクト高速紹介動画&#34;&gt;30秒のプロジェクト高速紹介動画&lt;/h1&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZPZmRLOwJy0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -187,10 +187,10 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
 &lt;h1 id=&#34;selfrionette-指先の力で全身アバターを操作する新しいvrコントローラ&#34;&gt;Selfrionette: 指先の力で全身アバターを操作する新しいVRコントローラ&lt;/h1&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Selfrionette&lt;/strong&gt;は、指先の力入力を用いてVR空間内で全身アバターを操作可能にする革新的なコントローラです。このシステムは、物理的および空間的な制約を克服し、多様で広いレンジのな触覚インタラクションを実現します。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/omosa.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/omosa.gif&#34;&gt;
 &lt;/figure&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/yawara.gif&#34;&gt;
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/yawara.gif&#34;&gt;
 &lt;/figure&gt;
  --&gt;
 &lt;p&gt;&lt;em&gt;Selfrionetteを用いてVR環境内のオブジェクトとインタラクションする様子&lt;/em&gt;&lt;/p&gt;
@@ -204,7 +204,7 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;小指&lt;/strong&gt;: 1自由度（押し込み）。 ものの把持に対応&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;両手を使用することで、最大14自由度で全身の操作が可能です。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/device.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/device.png&#34;
     alt=&#34;デバイス外観&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;デバイス外観&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -333,9 +333,9 @@ $$
     
     <item>
       <title>👤 Sony Computer Science Laboratories のプロジェクト研究員になりました！</title>
-      <link>http://localhost:1313/ja/post/sonycsl/</link>
+      <link>https://tkrtkr.com/ja/post/sonycsl/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/sonycsl/</guid>
+      <guid>https://tkrtkr.com/ja/post/sonycsl/</guid>
       <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
 それに伴い、拠点を沖縄県に移動しました。
 沖縄の地でモリモリ研究していきます！
@@ -345,9 +345,9 @@ $$
     
     <item>
       <title>📄 博士論文が情報処理学会の研究会推薦博士論文にノミネートされました！</title>
-      <link>http://localhost:1313/ja/post/johosyori/</link>
+      <link>https://tkrtkr.com/ja/post/johosyori/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/johosyori/</guid>
+      <guid>https://tkrtkr.com/ja/post/johosyori/</guid>
       <description>&lt;h2 id=&#34;簡単な解説記事は以下で読めます&#34;&gt;簡単な解説記事は以下で読めます。&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://note.com/ipsj/n/n2d3b470ce5f4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://note.com/ipsj/n/n2d3b470ce5f4&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -355,28 +355,28 @@ $$
     
     <item>
       <title>プロジェクト</title>
-      <link>http://localhost:1313/ja/projects/</link>
+      <link>https://tkrtkr.com/ja/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/projects/</guid>
+      <guid>https://tkrtkr.com/ja/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🌐 Maker Faire Kyoto でセルフリオネットの展示を行いました！</title>
-      <link>http://localhost:1313/ja/post/202404makerfair/</link>
+      <link>https://tkrtkr.com/ja/post/202404makerfair/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/202404makerfair/</guid>
+      <guid>https://tkrtkr.com/ja/post/202404makerfair/</guid>
       <description>&lt;p&gt;いつもは研究者や学生の方にデモをしていますが，お客さんの層がだいぶ違くて新鮮でした。
 特にお子様連れの方が多くいらしてくれて、楽しんでもらえて何よりでした。&lt;/p&gt;
 &lt;p&gt;子供でもAction Perceptionのループが変わると知覚が変わる体験が起きるんだな〜と思いました。
 セルフリオネットの体験時に「柔らかい！」とか「重い！」という言葉が自然と出てくると，こちらも心の中でガッツポーズがでるね。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img2.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img2.jpg&#34;&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img3.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img3.jpg&#34;&gt;
 &lt;/figure&gt;
 
 </description>
@@ -384,25 +384,25 @@ $$
     
     <item>
       <title>Perceptual Dimensions of Physical Properties of Handheld Objects Induced by Impedance Changes</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2023-dw/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2023-dw/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2023-dw/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2023-dw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/ja/experience/</link>
+      <link>https://tkrtkr.com/ja/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/experience/</guid>
+      <guid>https://tkrtkr.com/ja/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/ja/teaching/js/</link>
+      <link>https://tkrtkr.com/ja/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/teaching/js/</guid>
+      <guid>https://tkrtkr.com/ja/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -445,7 +445,7 @@ $$
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ja/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://tkrtkr.com/ja/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -522,9 +522,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/ja/teaching/python/</link>
+      <link>https://tkrtkr.com/ja/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/teaching/python/</guid>
+      <guid>https://tkrtkr.com/ja/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -567,7 +567,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ja/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://tkrtkr.com/ja/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -644,33 +644,33 @@ data.head()
     
     <item>
       <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
-      <link>http://localhost:1313/ja/post/utokyo/</link>
+      <link>https://tkrtkr.com/ja/post/utokyo/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/utokyo/</guid>
+      <guid>https://tkrtkr.com/ja/post/utokyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎓 博士（情報理工学）を取得しました！</title>
-      <link>http://localhost:1313/ja/post/phd/</link>
+      <link>https://tkrtkr.com/ja/post/phd/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/post/phd/</guid>
+      <guid>https://tkrtkr.com/ja/post/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2023-ah/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2023-ah/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2023-ah/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2023-ah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ソマトシフト / SomatoShift</title>
-      <link>http://localhost:1313/ja/project/somatoshift/</link>
+      <link>https://tkrtkr.com/ja/project/somatoshift/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/somatoshift/</guid>
+      <guid>https://tkrtkr.com/ja/project/somatoshift/</guid>
       <description>&lt;h1 id=&#34;コンセプト力覚アバター&#34;&gt;コンセプト：力覚アバター&lt;/h1&gt;
 &lt;p&gt;力覚提示技術の進歩により、物体に触れる感覚や道具を握る感覚などの力覚体験をバーチャルリアリティで表現することが可能になりました。
 力覚技術は、人間と物理世界との相互作用のシミュレーションに広く使用されています。&lt;/p&gt;
@@ -685,14 +685,14 @@ data.head()
 これを実現するために、物体の静的性質を力情報として修正するインピーダンス制御を利用しました。
 私たちの以前の研究では、これが環境特性を修正できることを示しました。
 同様に、ウェアラブル力覚フィードバックデバイスを装着し、動きに合わせて力覚フィードバックを提供することで、関節の動きを変更し、身体知覚の変化を引き起こすことができると仮説を立てています。
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/heavy_light.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/heavy_light.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
 &lt;p&gt;私たちは、回転するフライホイールからトルクを発生させて人間の動きに即座に力覚フィードバックを提供するコントロールモーメントジャイロスコープ（CMG）を搭載したウェアラブルハードウェアのプロトタイプを開発しました。
 デバイスの機構と仕様は下図に示されています。
 ウェアラブルデバイスの重量は設計上の重要な考慮事項であり、いくつかのプロトタイプの反復を経て、最終的な重量を350gまで削減しました。
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/device_config.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/device_config.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
@@ -708,25 +708,25 @@ data.head()
     
     <item>
       <title>Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object with Weight Shifting VR Controller by Computational Perception Model</title>
-      <link>http://localhost:1313/ja/publication/shigeyama-2022-gw/</link>
+      <link>https://tkrtkr.com/ja/publication/shigeyama-2022-gw/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shigeyama-2022-gw/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shigeyama-2022-gw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2022-af/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2022-af/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2022-af/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2022-af/</guid>
       <description></description>
     </item>
     
     <item>
       <title>めたもるX / MetamorphX</title>
-      <link>http://localhost:1313/ja/project/metamorphx/</link>
+      <link>https://tkrtkr.com/ja/project/metamorphx/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/metamorphx/</guid>
+      <guid>https://tkrtkr.com/ja/project/metamorphx/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;人間が力覚的に知覚する把持物体の形状は、物体のインピーダンス（どのぐらいの力を加えるとどのぐらい動くか）に影響されます。
 このプロジェクトでは、様々な仮想物体のインピーダンスを再現できるハンドヘルドVRコントローラー「めたもるX / MetamorphX」を開発しました。
@@ -743,9 +743,9 @@ data.head()
     
     <item>
       <title>ユニデント / Unident</title>
-      <link>http://localhost:1313/ja/project/unident/</link>
+      <link>https://tkrtkr.com/ja/project/unident/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/unident/</guid>
+      <guid>https://tkrtkr.com/ja/project/unident/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;Unidentは、高速な回転慣性の変化により、衝撃感を提供できる手持ちVRコントローラです。
 Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供することができます。
@@ -761,17 +761,17 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
-      <link>http://localhost:1313/ja/publication/shimizu-2021-df/</link>
+      <link>https://tkrtkr.com/ja/publication/shimizu-2021-df/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shimizu-2021-df/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shimizu-2021-df/</guid>
       <description></description>
     </item>
     
     <item>
       <title>シェイプセンス / ShapeSense</title>
-      <link>http://localhost:1313/ja/project/shapesense/</link>
+      <link>https://tkrtkr.com/ja/project/shapesense/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/shapesense/</guid>
+      <guid>https://tkrtkr.com/ja/project/shapesense/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;バーチャル物体の慣性モーメントと空気抵抗を再現するコントローラー&lt;/p&gt;
 &lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
@@ -784,17 +784,17 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
-      <link>http://localhost:1313/ja/publication/liu-2019-mu/</link>
+      <link>https://tkrtkr.com/ja/publication/liu-2019-mu/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/liu-2019-mu/</guid>
+      <guid>https://tkrtkr.com/ja/publication/liu-2019-mu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>トランスカリバー / Transcalibur</title>
-      <link>http://localhost:1313/ja/project/transcalibur/</link>
+      <link>https://tkrtkr.com/ja/project/transcalibur/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/transcalibur/</guid>
+      <guid>https://tkrtkr.com/ja/project/transcalibur/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;人間が知覚する把持物体の形状は、物体の慣性モーメントと見た目に影響されます。このプロジェクトでは、2つの重りの位置を動かすことで、様々なバーチャル物体を持っている感覚を再現できる手持ちVRコントローラー「トランスカリバー / Transcalibur」を開発しました。&lt;/p&gt;
 &lt;p&gt;重りの位置とデバイスの知覚される形状の関係は、データ駆動型の手法で定式化され、与えられた仮想オブジェクトの見た目に対してデバイスの重りの位置を最適化します。&lt;/p&gt;
@@ -805,14 +805,14 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
 
 &lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
 &lt;p&gt;Transcaliburは、2次元平面上で2つの重り付きモジュールを極座標で動かすことで、自身の慣性モーメントを変化させます。
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/transform.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/transform.gif&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;計算論的知覚モデル&#34;&gt;計算論的知覚モデル&lt;/h1&gt;
 &lt;p&gt;仮想環境で様々なオブジェクトのリアルな感覚を生成するためには、「重りの位置」と「人間が実際に知覚する形状」の関係を知る必要があります。
 しかし、この関係は理論として確立されていませんでした。&lt;/p&gt;
 &lt;p&gt;そこで、Transcaliburの「重りの位置」に対する「実際の人間の形状知覚」のペアデータを大量に収集し、重回帰分析を行うことで、人間の形状知覚の数理モデルを定式化しました。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/approach.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/approach.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;h1 id=&#34;受賞歴&#34;&gt;受賞歴&lt;/h1&gt;
@@ -824,25 +824,25 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
-      <link>http://localhost:1313/ja/publication/shigeyama-2019-jq/</link>
+      <link>https://tkrtkr.com/ja/publication/shigeyama-2019-jq/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shigeyama-2019-jq/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shigeyama-2019-jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects</title>
-      <link>http://localhost:1313/ja/publication/shigeyama-2019-nd/</link>
+      <link>https://tkrtkr.com/ja/publication/shigeyama-2019-nd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shigeyama-2019-nd/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shigeyama-2019-nd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dress of Ghost</title>
-      <link>http://localhost:1313/ja/project/dress_of_ghost/</link>
+      <link>https://tkrtkr.com/ja/project/dress_of_ghost/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/dress_of_ghost/</guid>
+      <guid>https://tkrtkr.com/ja/project/dress_of_ghost/</guid>
       <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
 &lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
 &lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
@@ -877,9 +877,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>渦、それはパーティー</title>
-      <link>http://localhost:1313/ja/project/voltex/</link>
+      <link>https://tkrtkr.com/ja/project/voltex/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/voltex/</guid>
+      <guid>https://tkrtkr.com/ja/project/voltex/</guid>
       <description>&lt;h1 id=&#34;キャプション&#34;&gt;キャプション&lt;/h1&gt;
 &lt;p&gt;最後に見た「渦」は何でしたか？&lt;/p&gt;
 &lt;p&gt;竜巻？渦潮？人の渦？興奮の渦？銀河？&lt;/p&gt;
@@ -918,17 +918,17 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>タッチスクリーンでの擬似触力覚提示による注意誘導</title>
-      <link>http://localhost:1313/ja/publication/qiao-ben-2018-js/</link>
+      <link>https://tkrtkr.com/ja/publication/qiao-ben-2018-js/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/qiao-ben-2018-js/</guid>
+      <guid>https://tkrtkr.com/ja/publication/qiao-ben-2018-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>スマートコントローラー</title>
-      <link>http://localhost:1313/ja/project/smart_controller/</link>
+      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>http://localhost:1313/ja/project/smart_controller/</guid>
+      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
 &lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
@@ -988,9 +988,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>注意誘導リーディング</title>
-      <link>http://localhost:1313/ja/project/touchscreen/</link>
+      <link>https://tkrtkr.com/ja/project/touchscreen/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>http://localhost:1313/ja/project/touchscreen/</guid>
+      <guid>https://tkrtkr.com/ja/project/touchscreen/</guid>
       <description>&lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
 &lt;p&gt;タッチスクリーン操作におけるスワイプ操作において、指の動きに対する画面の動きを変更することで、ユーザーの注意を画面上の特定の項目に誘導します。&lt;/p&gt;
 &lt;p&gt;この操作は、類似したコンテンツのリストビューにおいて、操作のあったコンテンツの方が操作のないコンテンツよりも記憶されやすいことを示しています。&lt;/p&gt;
@@ -1001,33 +1001,33 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>Effect of pseudo-haptic feedback on touchscreens on visual memory during image browsing</title>
-      <link>http://localhost:1313/ja/publication/hashimoto-2018-nt/</link>
+      <link>https://tkrtkr.com/ja/publication/hashimoto-2018-nt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/hashimoto-2018-nt/</guid>
+      <guid>https://tkrtkr.com/ja/publication/hashimoto-2018-nt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: dynamic 2D haptic shape illusion of virtual object by weight moving VR controller</title>
-      <link>http://localhost:1313/ja/publication/shigeyama-2018-up/</link>
+      <link>https://tkrtkr.com/ja/publication/shigeyama-2018-up/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shigeyama-2018-up/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shigeyama-2018-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
-      <link>http://localhost:1313/ja/publication/shigeyama-2018-ww/</link>
+      <link>https://tkrtkr.com/ja/publication/shigeyama-2018-ww/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/shigeyama-2018-ww/</guid>
+      <guid>https://tkrtkr.com/ja/publication/shigeyama-2018-ww/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magic Table</title>
-      <link>http://localhost:1313/ja/project/magic_table/</link>
+      <link>https://tkrtkr.com/ja/project/magic_table/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/magic_table/</guid>
+      <guid>https://tkrtkr.com/ja/project/magic_table/</guid>
       <description>&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
 &lt;p&gt;external_link: &amp;quot;&amp;quot;&lt;/p&gt;
 &lt;p&gt;image:
@@ -1044,17 +1044,17 @@ focal_point: Smart&lt;/p&gt;
     
     <item>
       <title>Magic table: deformable props using visuo haptic redirection</title>
-      <link>http://localhost:1313/ja/publication/matsumoto-2017-wi/</link>
+      <link>https://tkrtkr.com/ja/publication/matsumoto-2017-wi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/publication/matsumoto-2017-wi/</guid>
+      <guid>https://tkrtkr.com/ja/publication/matsumoto-2017-wi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rubik&#39;s Cube Solver</title>
-      <link>http://localhost:1313/ja/project/rubikcube/</link>
+      <link>https://tkrtkr.com/ja/project/rubikcube/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/project/rubikcube/</guid>
+      <guid>https://tkrtkr.com/ja/project/rubikcube/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Created in an project (class) of the Department of Mechanical and Information Engineering, Faculty of Engineering.&lt;/p&gt;
 &lt;p&gt;It uses two webcams to recognize the initial state of a Rubik&amp;rsquo;s cube and derives a solution using an existing solver. The six arms are rotated according to the method to complete the Rubik&amp;rsquo;s Cube.&lt;/p&gt;

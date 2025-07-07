@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/tags/research/</link>
-      <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/tags/research/</link>
+      <atom:link href="https://tkrtkr.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://tkrtkr.com/tags/research/</link>
     </image>
     
     <item>
       <title>Selfrionette</title>
-      <link>http://localhost:1313/project/selfrionette/</link>
+      <link>https://tkrtkr.com/project/selfrionette/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/selfrionette/</guid>
+      <guid>https://tkrtkr.com/project/selfrionette/</guid>
       <description>&lt;h1 id=&#34;only-30-seconds-concept-video--dive-in&#34;&gt;Only 30 seconds Concept Video &amp;ndash; dive in!&lt;/h1&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZPZmRLOwJy0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -31,10 +31,10 @@
 &lt;h1 id=&#34;selfrionette-a-new-vr-controller-for-manipulating-full-body-avatars-with-fingertip-force&#34;&gt;Selfrionette: A New VR Controller for Manipulating Full-Body Avatars with Fingertip Force&lt;/h1&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Selfrionette&lt;/strong&gt; is an innovative controller that enables users to manipulate a full-body avatar in VR with fingertip force input. This system overcomes physical and spatial constraints while achieving diverse and highly dynamic haptic interactions.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/omosa.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/omosa.gif&#34;&gt;
 &lt;/figure&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/yawara.gif&#34;&gt;
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/yawara.gif&#34;&gt;
 &lt;/figure&gt;
  --&gt;
 &lt;p&gt;&lt;em&gt;Interaction with virtual objects using Selfrionette.&lt;/em&gt;&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;li&gt;&lt;strong&gt;Pinky Finger&lt;/strong&gt;: 1 DoF (pressing), corresponding to object grasping.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Using both hands, users can achieve up to 14 DoF for full-body control.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/device.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/device.png&#34;
     alt=&#34;Mouse-shaped Input Interface&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Mouse-shaped Input Interface&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -177,9 +177,9 @@ $$
     
     <item>
       <title>SomatoShift</title>
-      <link>http://localhost:1313/project/somatoshift/</link>
+      <link>https://tkrtkr.com/project/somatoshift/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/somatoshift/</guid>
+      <guid>https://tkrtkr.com/project/somatoshift/</guid>
       <description>&lt;h1 id=&#34;concept-haptic-avatar&#34;&gt;Concept: Haptic Avatar&lt;/h1&gt;
 &lt;p&gt;Advancements in haptic technology have enabled the expression of haptic experiences in virtual reality, such as the sensation of touching an object or holding a tool.
 Haptic technologies have found wide use in simulating interactions between humans and the physical world.
@@ -195,14 +195,14 @@ We call this change in the relationship between somatosensory and motor sensatio
 To achieve this, we utilized impedance control, which modifies the static properties of an object as force information.
 Our previous study has shown that this can modify environmental properties.
 Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/heavy_light.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/heavy_light.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
 &lt;p&gt;We have developed a wearable hardware prototype equipped with control moment gyroscopes (CMG), which produce torque from a spinning flywheel to deliver immediate force feedback in response to human movement.
 The mechanism and specifications of the device are shown in below figure.
 The weight of the wearable device was a critical consideration in its design, and following several prototype iterations, the final weight was brought down to 350g.
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/device_config.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/device_config.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
@@ -218,9 +218,9 @@ The weight of the wearable device was a critical consideration in its design, an
     
     <item>
       <title>MetamorphX</title>
-      <link>http://localhost:1313/project/metamorphx/</link>
+      <link>https://tkrtkr.com/project/metamorphx/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/metamorphx/</guid>
+      <guid>https://tkrtkr.com/project/metamorphx/</guid>
       <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
 &lt;p&gt;The shape of a grasped object that humans perceive haptically is affected by the object&amp;rsquo;s impedance.
 In this project, we have developed a handheld VR controller &amp;ldquo;MetamorphX&amp;rdquo; that can reproduce the impedance of various virtual objects.
@@ -237,9 +237,9 @@ We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; 
     
     <item>
       <title>Unident</title>
-      <link>http://localhost:1313/project/unident/</link>
+      <link>https://tkrtkr.com/project/unident/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/unident/</guid>
+      <guid>https://tkrtkr.com/project/unident/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.&lt;/p&gt;
 &lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
@@ -252,9 +252,9 @@ We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; 
     
     <item>
       <title>ShapeSense</title>
-      <link>http://localhost:1313/project/shapesense/</link>
+      <link>https://tkrtkr.com/project/shapesense/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/shapesense/</guid>
+      <guid>https://tkrtkr.com/project/shapesense/</guid>
       <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
 &lt;p&gt;A controller that reproduces the moment of inertia and air resistance of a virtual grasped object&lt;/p&gt;
 &lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
@@ -267,9 +267,9 @@ We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; 
     
     <item>
       <title>Transcalibur</title>
-      <link>http://localhost:1313/project/transcalibur/</link>
+      <link>https://tkrtkr.com/project/transcalibur/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/transcalibur/</guid>
+      <guid>https://tkrtkr.com/project/transcalibur/</guid>
       <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
 &lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;
 &lt;p&gt;The relationship between the position of the weight and the perceived shape of the device is formulated using a data-driven method to optimize the position of the weight of the device for the appearance of a given virtual object.&lt;/p&gt;
@@ -280,14 +280,14 @@ We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; 
 
 &lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
 &lt;p&gt;By moving the two weighted modules in polar coordinates in a two-dimensional plane, Transcalibur changes its own moment of inertia.
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/transform.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/transform.gif&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;computational-perception-model&#34;&gt;Computational Perception Model&lt;/h1&gt;
 &lt;p&gt;In order to generate real sensations with various objects in the virtual environment, it is necessary to know the relationship between the &amp;ldquo;position of the weight&amp;rdquo; and the &amp;ldquo;shape that humans actually perceive&amp;rdquo;.
 However, this relationship has not been established as a theory.&lt;/p&gt;
 &lt;p&gt;Therefore, we collected a large amount of paired data of &amp;ldquo;actual human shape perception&amp;rdquo; for Transcalibur&amp;rsquo;s &amp;ldquo;weight position&amp;rdquo; and formulated a mathematical model of human shape perception by performing multiple regression analysis.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/approach.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/approach.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
@@ -299,9 +299,9 @@ However, this relationship has not been established as a theory.&lt;/p&gt;
     
     <item>
       <title>Context-aware Reading</title>
-      <link>http://localhost:1313/project/touchscreen/</link>
+      <link>https://tkrtkr.com/project/touchscreen/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>http://localhost:1313/project/touchscreen/</guid>
+      <guid>https://tkrtkr.com/project/touchscreen/</guid>
       <description>&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
 &lt;p&gt;With regard to swipe operations in touchscreen operations, the user&amp;rsquo;s attention is directed to a specific item on the screen by reducing the movement of the screen in response to the movement of the finger.&lt;/p&gt;
 &lt;p&gt;This operation in a list view with similar content shows that the content with the operation is better remembered than the content without the operation.&lt;/p&gt;
@@ -312,9 +312,9 @@ However, this relationship has not been established as a theory.&lt;/p&gt;
     
     <item>
       <title>Magic Table</title>
-      <link>http://localhost:1313/project/magic_table/</link>
+      <link>https://tkrtkr.com/project/magic_table/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/magic_table/</guid>
+      <guid>https://tkrtkr.com/project/magic_table/</guid>
       <description>&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
 &lt;p&gt;external_link: &amp;quot;&amp;quot;&lt;/p&gt;
 &lt;p&gt;image:

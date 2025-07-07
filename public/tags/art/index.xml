@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/tags/art/</link>
-      <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/tags/art/</link>
+      <atom:link href="https://tkrtkr.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>Art</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
+      <link>https://tkrtkr.com/tags/art/</link>
     </image>
     
     <item>
       <title>Dress of Ghost</title>
-      <link>http://localhost:1313/project/dress_of_ghost/</link>
+      <link>https://tkrtkr.com/project/dress_of_ghost/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/dress_of_ghost/</guid>
+      <guid>https://tkrtkr.com/project/dress_of_ghost/</guid>
       <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
 &lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
 &lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
@@ -51,9 +51,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>Voltex, that is party.</title>
-      <link>http://localhost:1313/project/voltex/</link>
+      <link>https://tkrtkr.com/project/voltex/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/voltex/</guid>
+      <guid>https://tkrtkr.com/project/voltex/</guid>
       <description>&lt;h1 id=&#34;caption&#34;&gt;Caption&lt;/h1&gt;
 &lt;p&gt;What is the last &amp;ldquo;vortex&amp;rdquo; we saw?&lt;/p&gt;
 &lt;p&gt;A tornado? Eddy tides? A vortex of people? A whirlwind of excitement? Galaxies?&lt;/p&gt;

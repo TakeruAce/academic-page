@@ -3,7 +3,7 @@ title: 'Addressing Performance Drop in Motor Learning in Virtual Co-Embodiment: 
   Method to Enhance Awareness of Movement Differences'
 authors:
 - Daichi Inoue
-- Hashiura Kenta
+- Kenta Hashiura 
 - Daisuke Mine
 - Takeru Hashimoto
 - Tomohiro Tanikawa

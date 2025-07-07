@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Takeru Hashimoto Web Page</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tkrtkr.com/publication_types/article-journal/</link>
+      <atom:link href="https://tkrtkr.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
+      <url>https://tkrtkr.com/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>https://tkrtkr.com/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Effects of Impedance Control on Haptic Perception of Object Properties: A qualitative and quantitative approach</title>
-      <link>http://localhost:1313/publication/hashimoto-2025-vq/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2025-vq/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2025-vq/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2025-vq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ヒトの動作に連動した非接地の力フィードバックによる把持物体の多様な物性提示システム</title>
-      <link>http://localhost:1313/publication/qiao-ben-2024-gr/</link>
+      <link>https://tkrtkr.com/publication/qiao-ben-2024-gr/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/qiao-ben-2024-gr/</guid>
+      <guid>https://tkrtkr.com/publication/qiao-ben-2024-gr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bridging player intentions: Exploring the potential of synchronized haptic controllers in multiplayer game</title>
-      <link>http://localhost:1313/publication/hashiura-2024-te/</link>
+      <link>https://tkrtkr.com/publication/hashiura-2024-te/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashiura-2024-te/</guid>
+      <guid>https://tkrtkr.com/publication/hashiura-2024-te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceptual Dimensions of Physical Properties of Handheld Objects Induced by Impedance Changes</title>
-      <link>http://localhost:1313/publication/hashimoto-2023-dw/</link>
+      <link>https://tkrtkr.com/publication/hashimoto-2023-dw/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hashimoto-2023-dw/</guid>
+      <guid>https://tkrtkr.com/publication/hashimoto-2023-dw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object with Weight Shifting VR Controller by Computational Perception Model</title>
-      <link>http://localhost:1313/publication/shigeyama-2022-gw/</link>
+      <link>https://tkrtkr.com/publication/shigeyama-2022-gw/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/shigeyama-2022-gw/</guid>
+      <guid>https://tkrtkr.com/publication/shigeyama-2022-gw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>タッチスクリーンでの擬似触力覚提示による注意誘導</title>
-      <link>http://localhost:1313/publication/qiao-ben-2018-js/</link>
+      <link>https://tkrtkr.com/publication/qiao-ben-2018-js/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/qiao-ben-2018-js/</guid>
+      <guid>https://tkrtkr.com/publication/qiao-ben-2018-js/</guid>
       <description></description>
     </item>
     
