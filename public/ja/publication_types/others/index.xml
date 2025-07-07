@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/publication_types/others/</link>
-      <atom:link href="https://tkrtkr.com/ja/publication_types/others/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/publication_types/others/</link>
+      <atom:link href="http://localhost:1313/ja/publication_types/others/index.xml" rel="self" type="application/rss+xml" />
     <description>Others</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Others</title>
-      <link>https://tkrtkr.com/ja/publication_types/others/</link>
+      <link>http://localhost:1313/ja/publication_types/others/</link>
     </image>
     
     <item>
       <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects</title>
-      <link>https://tkrtkr.com/ja/publication/shigeyama-2019-nd/</link>
+      <link>http://localhost:1313/ja/publication/shigeyama-2019-nd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/publication/shigeyama-2019-nd/</guid>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2019-nd/</guid>
       <description></description>
     </item>
     

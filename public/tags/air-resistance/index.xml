@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air Resistance | Takeru Hashimoto Web Page</title>
-    <link>https://tkrtkr.com/tags/air-resistance/</link>
-      <atom:link href="https://tkrtkr.com/tags/air-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/air-resistance/</link>
+      <atom:link href="http://localhost:1313/tags/air-resistance/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Resistance</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Air Resistance</title>
-      <link>https://tkrtkr.com/tags/air-resistance/</link>
+      <link>http://localhost:1313/tags/air-resistance/</link>
     </image>
     
     <item>
       <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
-      <link>https://tkrtkr.com/publication/liu-2019-mu/</link>
+      <link>http://localhost:1313/publication/liu-2019-mu/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/publication/liu-2019-mu/</guid>
+      <guid>http://localhost:1313/publication/liu-2019-mu/</guid>
       <description></description>
     </item>
     

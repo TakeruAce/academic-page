@@ -2,1110 +2,1110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tkrtkr.com/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/event/example/"
+                href="http://localhost:1313/ja/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/event/example/"
+                href="http://localhost:1313/event/example/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/event/"
+                href="http://localhost:1313/ja/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/event/"
+                href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication_types/article-journal/"
+                href="http://localhost:1313/ja/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication_types/article-journal/"
+                href="http://localhost:1313/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2025-vq/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2025-vq/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2025-vq/"
+                href="http://localhost:1313/ja/publication/hashimoto-2025-vq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2025-vq/"
+                href="http://localhost:1313/publication/hashimoto-2025-vq/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication_types/"
+                href="http://localhost:1313/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/"
+                href="http://localhost:1313/ja/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/"
+                href="http://localhost:1313/publication/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/siggraph/</loc>
+    <loc>http://localhost:1313/post/siggraph/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/siggraph/"
+                href="http://localhost:1313/ja/post/siggraph/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/siggraph/"
+                href="http://localhost:1313/post/siggraph/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/award/</loc>
+    <loc>http://localhost:1313/tags/award/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/award/"
+                href="http://localhost:1313/ja/tags/award/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/award/"
+                href="http://localhost:1313/tags/award/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/"
+                href="http://localhost:1313/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/"
+                href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hirao-2024-br/</loc>
+    <loc>http://localhost:1313/publication/hirao-2024-br/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hirao-2024-br/"
+                href="http://localhost:1313/ja/publication/hirao-2024-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hirao-2024-br/"
+                href="http://localhost:1313/publication/hirao-2024-br/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/kawashima-2024-mf/</loc>
+    <loc>http://localhost:1313/publication/kawashima-2024-mf/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/kawashima-2024-mf/"
+                href="http://localhost:1313/ja/publication/kawashima-2024-mf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/kawashima-2024-mf/"
+                href="http://localhost:1313/publication/kawashima-2024-mf/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication_types/paper-conference/"
+                href="http://localhost:1313/ja/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication_types/paper-conference/"
+                href="http://localhost:1313/publication_types/paper-conference/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/</loc>
+    <loc>http://localhost:1313/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/"
+                href="http://localhost:1313/ja/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/"
+                href="http://localhost:1313/tags/ungrounded-force-feedback-haptic-rendering-dynamic-touch/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/qiao-ben-2024-gr/</loc>
+    <loc>http://localhost:1313/publication/qiao-ben-2024-gr/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/qiao-ben-2024-gr/"
+                href="http://localhost:1313/ja/publication/qiao-ben-2024-gr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/qiao-ben-2024-gr/"
+                href="http://localhost:1313/publication/qiao-ben-2024-gr/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/interbee/</loc>
+    <loc>http://localhost:1313/post/interbee/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/interbee/"
+                href="http://localhost:1313/ja/post/interbee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/interbee/"
+                href="http://localhost:1313/post/interbee/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashiura-2024-te/</loc>
+    <loc>http://localhost:1313/publication/hashiura-2024-te/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashiura-2024-te/"
+                href="http://localhost:1313/ja/publication/hashiura-2024-te/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashiura-2024-te/"
+                href="http://localhost:1313/publication/hashiura-2024-te/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/body-reconstruction/</loc>
+    <loc>http://localhost:1313/tags/body-reconstruction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/body-reconstruction/"
+                href="http://localhost:1313/ja/tags/body-reconstruction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/body-reconstruction/"
+                href="http://localhost:1313/tags/body-reconstruction/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/embodied-interaction/</loc>
+    <loc>http://localhost:1313/tags/embodied-interaction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/embodied-interaction/"
+                href="http://localhost:1313/ja/tags/embodied-interaction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/embodied-interaction/"
+                href="http://localhost:1313/tags/embodied-interaction/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/haptics/</loc>
+    <loc>http://localhost:1313/tags/haptics/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/haptics/"
+                href="http://localhost:1313/ja/tags/haptics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/haptics/"
+                href="http://localhost:1313/tags/haptics/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2024-dl/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2024-dl/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2024-dl/"
+                href="http://localhost:1313/ja/publication/hashimoto-2024-dl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2024-dl/"
+                href="http://localhost:1313/publication/hashimoto-2024-dl/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/"
+                href="http://localhost:1313/ja/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/"
+                href="http://localhost:1313/project/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/research/"
+                href="http://localhost:1313/ja/tags/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/research/"
+                href="http://localhost:1313/tags/research/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/selfrionette/</loc>
+    <loc>http://localhost:1313/project/selfrionette/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/selfrionette/"
+                href="http://localhost:1313/ja/project/selfrionette/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/selfrionette/"
+                href="http://localhost:1313/project/selfrionette/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/sonycsl/</loc>
+    <loc>http://localhost:1313/post/sonycsl/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/sonycsl/"
+                href="http://localhost:1313/ja/post/sonycsl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/sonycsl/"
+                href="http://localhost:1313/post/sonycsl/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/event/</loc>
+    <loc>http://localhost:1313/tags/event/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/event/"
+                href="http://localhost:1313/ja/tags/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/event/"
+                href="http://localhost:1313/tags/event/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/johosyori/</loc>
+    <loc>http://localhost:1313/post/johosyori/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/johosyori/"
+                href="http://localhost:1313/ja/post/johosyori/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/johosyori/"
+                href="http://localhost:1313/post/johosyori/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/projects/"
+                href="http://localhost:1313/ja/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/projects/"
+                href="http://localhost:1313/projects/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2023-dw/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2023-dw/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2023-dw/"
+                href="http://localhost:1313/ja/publication/hashimoto-2023-dw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2023-dw/"
+                href="http://localhost:1313/publication/hashimoto-2023-dw/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/experience/"
+                href="http://localhost:1313/ja/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/experience/"
+                href="http://localhost:1313/experience/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/javascript/"
+                href="http://localhost:1313/ja/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/javascript/"
+                href="http://localhost:1313/tags/javascript/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/teaching/js/"
+                href="http://localhost:1313/ja/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/teaching/js/"
+                href="http://localhost:1313/teaching/js/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/teaching/python/"
+                href="http://localhost:1313/ja/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/teaching/python/"
+                href="http://localhost:1313/teaching/python/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/python/"
+                href="http://localhost:1313/ja/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/python/"
+                href="http://localhost:1313/tags/python/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/teaching/"
+                href="http://localhost:1313/ja/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/tvrsj2024/</loc>
+    <loc>http://localhost:1313/post/tvrsj2024/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/tvrsj2024/"
+                href="http://localhost:1313/ja/post/tvrsj2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/tvrsj2024/"
+                href="http://localhost:1313/post/tvrsj2024/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/utokyo/</loc>
+    <loc>http://localhost:1313/post/utokyo/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/utokyo/"
+                href="http://localhost:1313/ja/post/utokyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/utokyo/"
+                href="http://localhost:1313/post/utokyo/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/post/phd/</loc>
+    <loc>http://localhost:1313/post/phd/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/post/phd/"
+                href="http://localhost:1313/ja/post/phd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/post/phd/"
+                href="http://localhost:1313/post/phd/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/body-perception/</loc>
+    <loc>http://localhost:1313/tags/body-perception/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/body-perception/"
+                href="http://localhost:1313/ja/tags/body-perception/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/body-perception/"
+                href="http://localhost:1313/tags/body-perception/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/human-augmentation/</loc>
+    <loc>http://localhost:1313/tags/human-augmentation/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/human-augmentation/"
+                href="http://localhost:1313/ja/tags/human-augmentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/human-augmentation/"
+                href="http://localhost:1313/tags/human-augmentation/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/proprioception/</loc>
+    <loc>http://localhost:1313/tags/proprioception/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/proprioception/"
+                href="http://localhost:1313/ja/tags/proprioception/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/proprioception/"
+                href="http://localhost:1313/tags/proprioception/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2023-ah/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2023-ah/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2023-ah/"
+                href="http://localhost:1313/ja/publication/hashimoto-2023-ah/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2023-ah/"
+                href="http://localhost:1313/publication/hashimoto-2023-ah/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/somatoshift/</loc>
+    <loc>http://localhost:1313/project/somatoshift/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/somatoshift/"
+                href="http://localhost:1313/ja/project/somatoshift/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/somatoshift/"
+                href="http://localhost:1313/project/somatoshift/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2022-gw/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2022-gw/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shigeyama-2022-gw/"
+                href="http://localhost:1313/ja/publication/shigeyama-2022-gw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shigeyama-2022-gw/"
+                href="http://localhost:1313/publication/shigeyama-2022-gw/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/"
+                href="http://localhost:1313/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/control-moment-gyroscopes/</loc>
+    <loc>http://localhost:1313/tags/control-moment-gyroscopes/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/control-moment-gyroscopes/"
+                href="http://localhost:1313/ja/tags/control-moment-gyroscopes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/control-moment-gyroscopes/"
+                href="http://localhost:1313/tags/control-moment-gyroscopes/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/impedance-control/</loc>
+    <loc>http://localhost:1313/tags/impedance-control/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/impedance-control/"
+                href="http://localhost:1313/ja/tags/impedance-control/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/impedance-control/"
+                href="http://localhost:1313/tags/impedance-control/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/kinesthetics/</loc>
+    <loc>http://localhost:1313/tags/kinesthetics/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/kinesthetics/"
+                href="http://localhost:1313/ja/tags/kinesthetics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/kinesthetics/"
+                href="http://localhost:1313/tags/kinesthetics/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2022-af/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2022-af/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2022-af/"
+                href="http://localhost:1313/ja/publication/hashimoto-2022-af/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2022-af/"
+                href="http://localhost:1313/publication/hashimoto-2022-af/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/ungrounded-haptic-feedback/</loc>
+    <loc>http://localhost:1313/tags/ungrounded-haptic-feedback/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/ungrounded-haptic-feedback/"
+                href="http://localhost:1313/ja/tags/ungrounded-haptic-feedback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/ungrounded-haptic-feedback/"
+                href="http://localhost:1313/tags/ungrounded-haptic-feedback/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/metamorphx/</loc>
+    <loc>http://localhost:1313/project/metamorphx/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/metamorphx/"
+                href="http://localhost:1313/ja/project/metamorphx/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/metamorphx/"
+                href="http://localhost:1313/project/metamorphx/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/unident/</loc>
+    <loc>http://localhost:1313/project/unident/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/unident/"
+                href="http://localhost:1313/ja/project/unident/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/unident/"
+                href="http://localhost:1313/project/unident/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/</loc>
+    <loc>http://localhost:1313/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/"
+                href="http://localhost:1313/ja/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/"
+                href="http://localhost:1313/tags/solid-modelingthree-dimensional-displayspower-demandforcevirtual-realityuser-interfaceskinetic-theoryhuman-centered-computing-human-computer-interaction-interaction-devices-haptic-devices/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shimizu-2021-df/</loc>
+    <loc>http://localhost:1313/publication/shimizu-2021-df/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shimizu-2021-df/"
+                href="http://localhost:1313/ja/publication/shimizu-2021-df/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shimizu-2021-df/"
+                href="http://localhost:1313/publication/shimizu-2021-df/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/shapesense/</loc>
+    <loc>http://localhost:1313/project/shapesense/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/shapesense/"
+                href="http://localhost:1313/ja/project/shapesense/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/shapesense/"
+                href="http://localhost:1313/project/shapesense/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/air-resistance/</loc>
+    <loc>http://localhost:1313/tags/air-resistance/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/air-resistance/"
+                href="http://localhost:1313/ja/tags/air-resistance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/air-resistance/"
+                href="http://localhost:1313/tags/air-resistance/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/shape-perception/</loc>
+    <loc>http://localhost:1313/tags/shape-perception/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/shape-perception/"
+                href="http://localhost:1313/ja/tags/shape-perception/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/shape-perception/"
+                href="http://localhost:1313/tags/shape-perception/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/liu-2019-mu/</loc>
+    <loc>http://localhost:1313/publication/liu-2019-mu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/liu-2019-mu/"
+                href="http://localhost:1313/ja/publication/liu-2019-mu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/liu-2019-mu/"
+                href="http://localhost:1313/publication/liu-2019-mu/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/virtual-reality/</loc>
+    <loc>http://localhost:1313/tags/virtual-reality/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/virtual-reality/"
+                href="http://localhost:1313/ja/tags/virtual-reality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/virtual-reality/"
+                href="http://localhost:1313/tags/virtual-reality/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/transcalibur/</loc>
+    <loc>http://localhost:1313/project/transcalibur/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/transcalibur/"
+                href="http://localhost:1313/ja/project/transcalibur/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/transcalibur/"
+                href="http://localhost:1313/project/transcalibur/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/computational-interaction/</loc>
+    <loc>http://localhost:1313/tags/computational-interaction/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/computational-interaction/"
+                href="http://localhost:1313/ja/tags/computational-interaction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/computational-interaction/"
+                href="http://localhost:1313/tags/computational-interaction/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/haptic-display/</loc>
+    <loc>http://localhost:1313/tags/haptic-display/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/haptic-display/"
+                href="http://localhost:1313/ja/tags/haptic-display/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/haptic-display/"
+                href="http://localhost:1313/tags/haptic-display/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2019-jq/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2019-jq/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shigeyama-2019-jq/"
+                href="http://localhost:1313/ja/publication/shigeyama-2019-jq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shigeyama-2019-jq/"
+                href="http://localhost:1313/publication/shigeyama-2019-jq/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2019-nd/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2019-nd/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shigeyama-2019-nd/"
+                href="http://localhost:1313/ja/publication/shigeyama-2019-nd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shigeyama-2019-nd/"
+                href="http://localhost:1313/publication/shigeyama-2019-nd/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication_types/others/</loc>
+    <loc>http://localhost:1313/publication_types/others/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication_types/others/"
+                href="http://localhost:1313/ja/publication_types/others/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication_types/others/"
+                href="http://localhost:1313/publication_types/others/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/art/</loc>
+    <loc>http://localhost:1313/tags/art/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/art/"
+                href="http://localhost:1313/ja/tags/art/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/art/"
+                href="http://localhost:1313/tags/art/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/dress_of_ghost/</loc>
+    <loc>http://localhost:1313/project/dress_of_ghost/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/dress_of_ghost/"
+                href="http://localhost:1313/ja/project/dress_of_ghost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/dress_of_ghost/"
+                href="http://localhost:1313/project/dress_of_ghost/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/voltex/</loc>
+    <loc>http://localhost:1313/project/voltex/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/voltex/"
+                href="http://localhost:1313/ja/project/voltex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/voltex/"
+                href="http://localhost:1313/project/voltex/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/qiao-ben-2018-js/</loc>
+    <loc>http://localhost:1313/publication/qiao-ben-2018-js/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/qiao-ben-2018-js/"
+                href="http://localhost:1313/ja/publication/qiao-ben-2018-js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/qiao-ben-2018-js/"
+                href="http://localhost:1313/publication/qiao-ben-2018-js/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/touchscreen/</loc>
+    <loc>http://localhost:1313/project/touchscreen/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/touchscreen/"
+                href="http://localhost:1313/ja/project/touchscreen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/touchscreen/"
+                href="http://localhost:1313/project/touchscreen/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/iot/</loc>
+    <loc>http://localhost:1313/tags/iot/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/iot/"
+                href="http://localhost:1313/ja/tags/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/iot/"
+                href="http://localhost:1313/tags/iot/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/tags/other/</loc>
+    <loc>http://localhost:1313/tags/other/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/tags/other/"
+                href="http://localhost:1313/ja/tags/other/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/tags/other/"
+                href="http://localhost:1313/tags/other/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/smart_controller/</loc>
+    <loc>http://localhost:1313/project/smart_controller/</loc>
     <lastmod>2018-03-28T12:35:52+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/smart_controller/"
+                href="http://localhost:1313/ja/project/smart_controller/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/smart_controller/"
+                href="http://localhost:1313/project/smart_controller/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/hashimoto-2018-nt/</loc>
+    <loc>http://localhost:1313/publication/hashimoto-2018-nt/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/hashimoto-2018-nt/"
+                href="http://localhost:1313/ja/publication/hashimoto-2018-nt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/hashimoto-2018-nt/"
+                href="http://localhost:1313/publication/hashimoto-2018-nt/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2018-up/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2018-up/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shigeyama-2018-up/"
+                href="http://localhost:1313/ja/publication/shigeyama-2018-up/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shigeyama-2018-up/"
+                href="http://localhost:1313/publication/shigeyama-2018-up/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/shigeyama-2018-ww/</loc>
+    <loc>http://localhost:1313/publication/shigeyama-2018-ww/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/shigeyama-2018-ww/"
+                href="http://localhost:1313/ja/publication/shigeyama-2018-ww/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/shigeyama-2018-ww/"
+                href="http://localhost:1313/publication/shigeyama-2018-ww/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/magic_table/</loc>
+    <loc>http://localhost:1313/project/magic_table/</loc>
     <lastmod>2017-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/magic_table/"
+                href="http://localhost:1313/ja/project/magic_table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/magic_table/"
+                href="http://localhost:1313/project/magic_table/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/publication/matsumoto-2017-wi/</loc>
+    <loc>http://localhost:1313/publication/matsumoto-2017-wi/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/publication/matsumoto-2017-wi/"
+                href="http://localhost:1313/ja/publication/matsumoto-2017-wi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/publication/matsumoto-2017-wi/"
+                href="http://localhost:1313/publication/matsumoto-2017-wi/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/project/rubikcube/</loc>
+    <loc>http://localhost:1313/project/rubikcube/</loc>
     <lastmod>2016-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tkrtkr.com/ja/project/rubikcube/"
+                href="http://localhost:1313/ja/project/rubikcube/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tkrtkr.com/project/rubikcube/"
+                href="http://localhost:1313/project/rubikcube/"
                 />
   </url>
 </urlset>

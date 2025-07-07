@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proprioception | Takeru Hashimoto Web Page</title>
-    <link>https://tkrtkr.com/tags/proprioception/</link>
-      <atom:link href="https://tkrtkr.com/tags/proprioception/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/proprioception/</link>
+      <atom:link href="http://localhost:1313/tags/proprioception/index.xml" rel="self" type="application/rss+xml" />
     <description>Proprioception</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Proprioception</title>
-      <link>https://tkrtkr.com/tags/proprioception/</link>
+      <link>http://localhost:1313/tags/proprioception/</link>
     </image>
     
     <item>
       <title>SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement</title>
-      <link>https://tkrtkr.com/publication/hashimoto-2023-ah/</link>
+      <link>http://localhost:1313/publication/hashimoto-2023-ah/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/publication/hashimoto-2023-ah/</guid>
+      <guid>http://localhost:1313/publication/hashimoto-2023-ah/</guid>
       <description></description>
     </item>
     

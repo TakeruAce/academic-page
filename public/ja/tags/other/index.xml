@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/other/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/other/</link>
+      <atom:link href="http://localhost:1313/ja/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Wed, 28 Mar 2018 12:35:52 +0900</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Other</title>
-      <link>https://tkrtkr.com/ja/tags/other/</link>
+      <link>http://localhost:1313/ja/tags/other/</link>
     </image>
     
     <item>
       <title>スマートコントローラー</title>
-      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
+      <link>http://localhost:1313/ja/project/smart_controller/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
+      <guid>http://localhost:1313/ja/project/smart_controller/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
 &lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>Rubik&#39;s Cube Solver</title>
-      <link>https://tkrtkr.com/ja/project/rubikcube/</link>
+      <link>http://localhost:1313/ja/project/rubikcube/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/rubikcube/</guid>
+      <guid>http://localhost:1313/ja/project/rubikcube/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Created in an project (class) of the Department of Mechanical and Information Engineering, Faculty of Engineering.&lt;/p&gt;
 &lt;p&gt;It uses two webcams to recognize the initial state of a Rubik&amp;rsquo;s cube and derives a solution using an existing solver. The six arms are rotated according to the method to complete the Rubik&amp;rsquo;s Cube.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Control Moment Gyroscopes | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/control-moment-gyroscopes/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/control-moment-gyroscopes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/control-moment-gyroscopes/</link>
+      <atom:link href="http://localhost:1313/ja/tags/control-moment-gyroscopes/index.xml" rel="self" type="application/rss+xml" />
     <description>Control Moment Gyroscopes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu_60fecd9a00084dec.png</url>
       <title>Control Moment Gyroscopes</title>
-      <link>https://tkrtkr.com/ja/tags/control-moment-gyroscopes/</link>
+      <link>http://localhost:1313/ja/tags/control-moment-gyroscopes/</link>
     </image>
     
     <item>
       <title>MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control</title>
-      <link>https://tkrtkr.com/ja/publication/hashimoto-2022-af/</link>
+      <link>http://localhost:1313/ja/publication/hashimoto-2022-af/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/publication/hashimoto-2022-af/</guid>
+      <guid>http://localhost:1313/ja/publication/hashimoto-2022-af/</guid>
       <description></description>
     </item>
     
