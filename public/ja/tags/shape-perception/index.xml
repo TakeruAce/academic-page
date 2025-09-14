@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shape Perception | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/shape-perception/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/shape-perception/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/shape-perception/</link>
+      <atom:link href="http://localhost:1313/ja/tags/shape-perception/index.xml" rel="self" type="application/rss+xml" />
     <description>Shape Perception</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>Shape Perception</title>
-      <link>https://tkrtkr.com/ja/tags/shape-perception/</link>
+      <link>http://localhost:1313/ja/tags/shape-perception/</link>
     </image>
     
     <item>
       <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
-      <link>https://tkrtkr.com/ja/publication/liu-2019-mu/</link>
+      <link>http://localhost:1313/ja/publication/liu-2019-mu/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/publication/liu-2019-mu/</guid>
+      <guid>http://localhost:1313/ja/publication/liu-2019-mu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
-      <link>https://tkrtkr.com/ja/publication/shigeyama-2019-jq/</link>
+      <link>http://localhost:1313/ja/publication/shigeyama-2019-jq/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/publication/shigeyama-2019-jq/</guid>
+      <guid>http://localhost:1313/ja/publication/shigeyama-2019-jq/</guid>
       <description></description>
     </item>
     

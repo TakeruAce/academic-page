@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haptic Display | Takeru Hashimoto Web Page</title>
-    <link>https://tkrtkr.com/tags/haptic-display/</link>
-      <atom:link href="https://tkrtkr.com/tags/haptic-display/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/haptic-display/</link>
+      <atom:link href="http://localhost:1313/tags/haptic-display/index.xml" rel="self" type="application/rss+xml" />
     <description>Haptic Display</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>Haptic Display</title>
-      <link>https://tkrtkr.com/tags/haptic-display/</link>
+      <link>http://localhost:1313/tags/haptic-display/</link>
     </image>
     
     <item>
       <title>Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model</title>
-      <link>https://tkrtkr.com/publication/shigeyama-2019-jq/</link>
+      <link>http://localhost:1313/publication/shigeyama-2019-jq/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/publication/shigeyama-2019-jq/</guid>
+      <guid>http://localhost:1313/publication/shigeyama-2019-jq/</guid>
       <description></description>
     </item>
     

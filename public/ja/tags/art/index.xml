@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/art/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/art/</link>
+      <atom:link href="http://localhost:1313/ja/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>Art</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>Art</title>
-      <link>https://tkrtkr.com/ja/tags/art/</link>
+      <link>http://localhost:1313/ja/tags/art/</link>
     </image>
     
     <item>
       <title>Dress of Ghost</title>
-      <link>https://tkrtkr.com/ja/project/dress_of_ghost/</link>
+      <link>http://localhost:1313/ja/project/dress_of_ghost/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/dress_of_ghost/</guid>
+      <guid>http://localhost:1313/ja/project/dress_of_ghost/</guid>
       <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
 &lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
 &lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
@@ -52,9 +52,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>渦、それはパーティー</title>
-      <link>https://tkrtkr.com/ja/project/voltex/</link>
+      <link>http://localhost:1313/ja/project/voltex/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/voltex/</guid>
+      <guid>http://localhost:1313/ja/project/voltex/</guid>
       <description>&lt;h1 id=&#34;キャプション&#34;&gt;キャプション&lt;/h1&gt;
 &lt;p&gt;最後に見た「渦」は何でしたか？&lt;/p&gt;
 &lt;p&gt;竜巻？渦潮？人の渦？興奮の渦？銀河？&lt;/p&gt;

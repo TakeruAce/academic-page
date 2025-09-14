@@ -24,11 +24,10 @@ sections:
         color: black
         image:
           # 背景画像を`assets/media/`に追加してください。
-          filename: stacked-peaks.svg
-          # filename: /img/somatoshift/featured1.png
+          filename: img/somatoshift/featured1.png
           filters:
-            brightness: 0.5
-            blur: 0.2
+            brightness: 0.2
+            blur: 0.5
           size: cover
           position: center
           parallax: false

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/post/</link>
-      <atom:link href="https://tkrtkr.com/ja/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/post/</link>
+      <atom:link href="http://localhost:1313/ja/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>News</title>
-      <link>https://tkrtkr.com/ja/post/</link>
+      <link>http://localhost:1313/ja/post/</link>
     </image>
     
     <item>
       <title>🌐湘南学術会議（Human-Computer-Interfaces x Neuroscience）に参加します！</title>
-      <link>https://tkrtkr.com/ja/post/shonan_seminar/</link>
+      <link>http://localhost:1313/ja/post/shonan_seminar/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/shonan_seminar/</guid>
+      <guid>http://localhost:1313/ja/post/shonan_seminar/</guid>
       <description>&lt;p&gt;シニアの先生方が多くて楽しみです！
 &lt;a href=&#34;https://shonan.nii.ac.jp/seminars/216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shonan.nii.ac.jp/seminars/216/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>🌐 CHI2025に参加しました！</title>
-      <link>https://tkrtkr.com/ja/post/202504chi/</link>
+      <link>http://localhost:1313/ja/post/202504chi/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/202504chi/</guid>
+      <guid>http://localhost:1313/ja/post/202504chi/</guid>
       <description>&lt;p&gt;今回は日本開催ということもあり、フルペーパーはありませんでしたがWorkshopで発表してきました！
 ACM CHI 2025 Workshop, Sensorimotor Devices: Coupling Sensing and Actuation to Augment Bodily Experience.
 でSomatoShiftを紹介しつつ，領域の方に体験してもらったのはいい機会だったと思います。
@@ -34,11 +34,11 @@ ACM CHI 2025 Workshop, Sensorimotor Devices: Coupling Sensing and Actuation to A
 Jugenと話せたのも良かった。
 領域でのプレゼンスを上げていきたいと感じた。&lt;/p&gt;
 &lt;p&gt;デモの様子
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/chi2025/img2.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/chi2025/img2.gif&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;WS
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/chi2025/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/chi2025/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -46,33 +46,33 @@ Jugenと話せたのも良かった。
     
     <item>
       <title>📄 IEEE Accessに論文誌が採択されました！</title>
-      <link>https://tkrtkr.com/ja/post/202503access/</link>
+      <link>http://localhost:1313/ja/post/202503access/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/202503access/</guid>
+      <guid>http://localhost:1313/ja/post/202503access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ SIGGRAPH Asia 2024でBest Demo in Show Awardを受賞しました！</title>
-      <link>https://tkrtkr.com/ja/post/siggraph/</link>
+      <link>http://localhost:1313/ja/post/siggraph/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/siggraph/</guid>
+      <guid>http://localhost:1313/ja/post/siggraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ INTERBEE x DCEXPO 2024でSIGGRAPH Special Prize AwardとNEDO賞をダブル受賞しました！</title>
-      <link>https://tkrtkr.com/ja/post/interbee/</link>
+      <link>http://localhost:1313/ja/post/interbee/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/interbee/</guid>
+      <guid>http://localhost:1313/ja/post/interbee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🌐 UIST2024に参加しました！</title>
-      <link>https://tkrtkr.com/ja/post/202410uist/</link>
+      <link>http://localhost:1313/ja/post/202410uist/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/202410uist/</guid>
+      <guid>http://localhost:1313/ja/post/202410uist/</guid>
       <description>&lt;p&gt;USのピッツバーグで筆頭共著の平尾くんと共にSelfrionetteの口頭発表とデモをやってきました！&lt;/p&gt;
 &lt;p&gt;口頭発表ではUISTお馴染みのライブデモにトライしましたが，上手くいかず。
 なかなか際どい体験でしたが、心臓は強くなりました。
@@ -81,11 +81,11 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
 &lt;p&gt;あわよくば他のデモも回りたかったけど、時間がなかった。
 デモ展示者は他のデモ体験できないのはあるあるですね。うまいシステムは作れないだろうか。&lt;/p&gt;
 &lt;p&gt;デモの様子
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/uist2024/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/uist2024/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;激混みレセプション．参加人数過去最多だったそう．
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/uist2024/img2.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/uist2024/img2.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -93,17 +93,17 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
     
     <item>
       <title>📄 日本バーチャルリアリティ学会に論文誌が採択されました！</title>
-      <link>https://tkrtkr.com/ja/post/tvrsj2024/</link>
+      <link>http://localhost:1313/ja/post/tvrsj2024/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/tvrsj2024/</guid>
+      <guid>http://localhost:1313/ja/post/tvrsj2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👤 Sony Computer Science Laboratories のプロジェクト研究員になりました！</title>
-      <link>https://tkrtkr.com/ja/post/sonycsl/</link>
+      <link>http://localhost:1313/ja/post/sonycsl/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/sonycsl/</guid>
+      <guid>http://localhost:1313/ja/post/sonycsl/</guid>
       <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
 それに伴い、拠点を沖縄県に移動しました。
 沖縄の地でモリモリ研究していきます！
@@ -113,9 +113,9 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
     
     <item>
       <title>📄 博士論文が情報処理学会の研究会推薦博士論文にノミネートされました！</title>
-      <link>https://tkrtkr.com/ja/post/johosyori/</link>
+      <link>http://localhost:1313/ja/post/johosyori/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/johosyori/</guid>
+      <guid>http://localhost:1313/ja/post/johosyori/</guid>
       <description>&lt;h2 id=&#34;簡単な解説記事は以下で読めます&#34;&gt;簡単な解説記事は以下で読めます。&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://note.com/ipsj/n/n2d3b470ce5f4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://note.com/ipsj/n/n2d3b470ce5f4&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -123,20 +123,20 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
     
     <item>
       <title>🌐 Maker Faire Kyoto でセルフリオネットの展示を行いました！</title>
-      <link>https://tkrtkr.com/ja/post/202404makerfair/</link>
+      <link>http://localhost:1313/ja/post/202404makerfair/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/202404makerfair/</guid>
+      <guid>http://localhost:1313/ja/post/202404makerfair/</guid>
       <description>&lt;p&gt;いつもは研究者や学生の方にデモをしていますが，お客さんの層がだいぶ違くて新鮮でした。
 特にお子様連れの方が多くいらしてくれて、楽しんでもらえて何よりでした。&lt;/p&gt;
 &lt;p&gt;子供でもAction Perceptionのループが変わると知覚が変わる体験が起きるんだな〜と思いました。
 セルフリオネットの体験時に「柔らかい！」とか「重い！」という言葉が自然と出てくると，こちらも心の中でガッツポーズがでるね。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img1.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img1.jpg&#34;&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img2.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img2.jpg&#34;&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/202404makerfaire/img3.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/202404makerfaire/img3.jpg&#34;&gt;
 &lt;/figure&gt;
 
 </description>
@@ -144,17 +144,17 @@ Demo Awardsには至らずでしたが、いいデモでした。&lt;/p&gt;
     
     <item>
       <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
-      <link>https://tkrtkr.com/ja/post/utokyo/</link>
+      <link>http://localhost:1313/ja/post/utokyo/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/utokyo/</guid>
+      <guid>http://localhost:1313/ja/post/utokyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎓 博士（情報理工学）を取得しました！</title>
-      <link>https://tkrtkr.com/ja/post/phd/</link>
+      <link>http://localhost:1313/ja/post/phd/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/phd/</guid>
+      <guid>http://localhost:1313/ja/post/phd/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Award | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/award/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/award/</link>
+      <atom:link href="http://localhost:1313/ja/tags/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Award</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>Award</title>
-      <link>https://tkrtkr.com/ja/tags/award/</link>
+      <link>http://localhost:1313/ja/tags/award/</link>
     </image>
     
     <item>
       <title>🏆️ SIGGRAPH Asia 2024でBest Demo in Show Awardを受賞しました！</title>
-      <link>https://tkrtkr.com/ja/post/siggraph/</link>
+      <link>http://localhost:1313/ja/post/siggraph/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/siggraph/</guid>
+      <guid>http://localhost:1313/ja/post/siggraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ INTERBEE x DCEXPO 2024でSIGGRAPH Special Prize AwardとNEDO賞をダブル受賞しました！</title>
-      <link>https://tkrtkr.com/ja/post/interbee/</link>
+      <link>http://localhost:1313/ja/post/interbee/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/interbee/</guid>
+      <guid>http://localhost:1313/ja/post/interbee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>📄 博士論文が情報処理学会の研究会推薦博士論文にノミネートされました！</title>
-      <link>https://tkrtkr.com/ja/post/johosyori/</link>
+      <link>http://localhost:1313/ja/post/johosyori/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/post/johosyori/</guid>
+      <guid>http://localhost:1313/ja/post/johosyori/</guid>
       <description>&lt;h2 id=&#34;簡単な解説記事は以下で読めます&#34;&gt;簡単な解説記事は以下で読めます。&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://note.com/ipsj/n/n2d3b470ce5f4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://note.com/ipsj/n/n2d3b470ce5f4&lt;/a&gt;&lt;/p&gt;
 </description>

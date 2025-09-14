@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>プロジェクト | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/project/</link>
-      <atom:link href="https://tkrtkr.com/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/project/</link>
+      <atom:link href="http://localhost:1313/ja/project/index.xml" rel="self" type="application/rss+xml" />
     <description>プロジェクト</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>プロジェクト</title>
-      <link>https://tkrtkr.com/ja/project/</link>
+      <link>http://localhost:1313/ja/project/</link>
     </image>
     
     <item>
       <title>セルフリオネット / Selfrionette</title>
-      <link>https://tkrtkr.com/ja/project/selfrionette/</link>
+      <link>http://localhost:1313/ja/project/selfrionette/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/selfrionette/</guid>
+      <guid>http://localhost:1313/ja/project/selfrionette/</guid>
       <description>&lt;h1 id=&#34;30秒のプロジェクト高速紹介動画&#34;&gt;30秒のプロジェクト高速紹介動画&lt;/h1&gt;
 
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -32,10 +32,10 @@
 &lt;h1 id=&#34;selfrionette-指先の力で全身アバターを操作する新しいvrコントローラ&#34;&gt;Selfrionette: 指先の力で全身アバターを操作する新しいVRコントローラ&lt;/h1&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Selfrionette&lt;/strong&gt;は、指先の力入力を用いてVR空間内で全身アバターを操作可能にする革新的なコントローラです。このシステムは、物理的および空間的な制約を克服し、多様で広いレンジのな触覚インタラクションを実現します。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/omosa.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/omosa.gif&#34;&gt;
 &lt;/figure&gt;
 
-&lt;!-- &lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/yawara.gif&#34;&gt;
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/yawara.gif&#34;&gt;
 &lt;/figure&gt;
  --&gt;
 &lt;p&gt;&lt;em&gt;Selfrionetteを用いてVR環境内のオブジェクトとインタラクションする様子&lt;/em&gt;&lt;/p&gt;
@@ -49,7 +49,7 @@
 &lt;li&gt;&lt;strong&gt;小指&lt;/strong&gt;: 1自由度（押し込み）。 ものの把持に対応&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;両手を使用することで、最大14自由度で全身の操作が可能です。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/selfrionette/device.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/selfrionette/device.png&#34;
     alt=&#34;デバイス外観&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;デバイス外観&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -179,9 +179,9 @@ $$
     
     <item>
       <title>ソマトシフト / SomatoShift</title>
-      <link>https://tkrtkr.com/ja/project/somatoshift/</link>
+      <link>http://localhost:1313/ja/project/somatoshift/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/somatoshift/</guid>
+      <guid>http://localhost:1313/ja/project/somatoshift/</guid>
       <description>&lt;h1 id=&#34;コンセプト力覚アバター&#34;&gt;コンセプト：力覚アバター&lt;/h1&gt;
 &lt;p&gt;力覚提示技術の進歩により、物体に触れる感覚や道具を握る感覚などの力覚体験をバーチャルリアリティで表現することが可能になりました。
 力覚技術は、人間と物理世界との相互作用のシミュレーションに広く使用されています。&lt;/p&gt;
@@ -196,14 +196,14 @@ $$
 これを実現するために、物体の静的性質を力情報として修正するインピーダンス制御を利用しました。
 私たちの以前の研究では、これが環境特性を修正できることを示しました。
 同様に、ウェアラブル力覚フィードバックデバイスを装着し、動きに合わせて力覚フィードバックを提供することで、関節の動きを変更し、身体知覚の変化を引き起こすことができると仮説を立てています。
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/heavy_light.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/heavy_light.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
 &lt;p&gt;私たちは、回転するフライホイールからトルクを発生させて人間の動きに即座に力覚フィードバックを提供するコントロールモーメントジャイロスコープ（CMG）を搭載したウェアラブルハードウェアのプロトタイプを開発しました。
 デバイスの機構と仕様は下図に示されています。
 ウェアラブルデバイスの重量は設計上の重要な考慮事項であり、いくつかのプロトタイプの反復を経て、最終的な重量を350gまで削減しました。
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/media/img/somatoshift/device_config.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/media/img/somatoshift/device_config.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
@@ -220,9 +220,9 @@ $$
     
     <item>
       <title>めたもるX / MetamorphX</title>
-      <link>https://tkrtkr.com/ja/project/metamorphx/</link>
+      <link>http://localhost:1313/ja/project/metamorphx/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/metamorphx/</guid>
+      <guid>http://localhost:1313/ja/project/metamorphx/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;人間が力覚的に知覚する把持物体の形状は、物体のインピーダンス（どのぐらいの力を加えるとどのぐらい動くか）に影響されます。
 このプロジェクトでは、様々な仮想物体のインピーダンスを再現できるハンドヘルドVRコントローラー「めたもるX / MetamorphX」を開発しました。
@@ -240,9 +240,9 @@ $$
     
     <item>
       <title>ユニデント / Unident</title>
-      <link>https://tkrtkr.com/ja/project/unident/</link>
+      <link>http://localhost:1313/ja/project/unident/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/unident/</guid>
+      <guid>http://localhost:1313/ja/project/unident/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;Unidentは、高速な回転慣性の変化により、衝撃感を提供できる手持ちVRコントローラです。
 Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供することができます。
@@ -259,9 +259,9 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>シェイプセンス / ShapeSense</title>
-      <link>https://tkrtkr.com/ja/project/shapesense/</link>
+      <link>http://localhost:1313/ja/project/shapesense/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/shapesense/</guid>
+      <guid>http://localhost:1313/ja/project/shapesense/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;バーチャル物体の慣性モーメントと空気抵抗を再現するコントローラー&lt;/p&gt;
 &lt;h1 id=&#34;動画&#34;&gt;動画&lt;/h1&gt;
@@ -275,9 +275,9 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>トランスカリバー / Transcalibur</title>
-      <link>https://tkrtkr.com/ja/project/transcalibur/</link>
+      <link>http://localhost:1313/ja/project/transcalibur/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/transcalibur/</guid>
+      <guid>http://localhost:1313/ja/project/transcalibur/</guid>
       <description>&lt;h1 id=&#34;コンセプト&#34;&gt;コンセプト&lt;/h1&gt;
 &lt;p&gt;人間が知覚する把持物体の形状は、物体の慣性モーメントと見た目に影響されます。このプロジェクトでは、2つの重りの位置を動かすことで、様々なバーチャル物体を持っている感覚を再現できる手持ちVRコントローラー「トランスカリバー / Transcalibur」を開発しました。&lt;/p&gt;
 &lt;p&gt;重りの位置とデバイスの知覚される形状の関係は、データ駆動型の手法で定式化され、与えられた仮想オブジェクトの見た目に対してデバイスの重りの位置を最適化します。&lt;/p&gt;
@@ -289,14 +289,14 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
 
 &lt;h1 id=&#34;ハードウェア&#34;&gt;ハードウェア&lt;/h1&gt;
 &lt;p&gt;Transcaliburは、2次元平面上で2つの重り付きモジュールを極座標で動かすことで、自身の慣性モーメントを変化させます。
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/transform.gif&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/transform.gif&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;計算論的知覚モデル&#34;&gt;計算論的知覚モデル&lt;/h1&gt;
 &lt;p&gt;仮想環境で様々なオブジェクトのリアルな感覚を生成するためには、「重りの位置」と「人間が実際に知覚する形状」の関係を知る必要があります。
 しかし、この関係は理論として確立されていませんでした。&lt;/p&gt;
 &lt;p&gt;そこで、Transcaliburの「重りの位置」に対する「実際の人間の形状知覚」のペアデータを大量に収集し、重回帰分析を行うことで、人間の形状知覚の数理モデルを定式化しました。&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://tkrtkr.com/img/approach.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/approach.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;h1 id=&#34;受賞歴&#34;&gt;受賞歴&lt;/h1&gt;
@@ -308,9 +308,9 @@ Unidentは、低遅延・低消費電力で高頻度の衝撃感を提供する�
     
     <item>
       <title>Dress of Ghost</title>
-      <link>https://tkrtkr.com/ja/project/dress_of_ghost/</link>
+      <link>http://localhost:1313/ja/project/dress_of_ghost/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/dress_of_ghost/</guid>
+      <guid>http://localhost:1313/ja/project/dress_of_ghost/</guid>
       <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
 &lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
 &lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
@@ -346,9 +346,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>渦、それはパーティー</title>
-      <link>https://tkrtkr.com/ja/project/voltex/</link>
+      <link>http://localhost:1313/ja/project/voltex/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/voltex/</guid>
+      <guid>http://localhost:1313/ja/project/voltex/</guid>
       <description>&lt;h1 id=&#34;キャプション&#34;&gt;キャプション&lt;/h1&gt;
 &lt;p&gt;最後に見た「渦」は何でしたか？&lt;/p&gt;
 &lt;p&gt;竜巻？渦潮？人の渦？興奮の渦？銀河？&lt;/p&gt;
@@ -388,9 +388,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>スマートコントローラー</title>
-      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
+      <link>http://localhost:1313/ja/project/smart_controller/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
+      <guid>http://localhost:1313/ja/project/smart_controller/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
 &lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
@@ -450,9 +450,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>注意誘導リーディング</title>
-      <link>https://tkrtkr.com/ja/project/touchscreen/</link>
+      <link>http://localhost:1313/ja/project/touchscreen/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>https://tkrtkr.com/ja/project/touchscreen/</guid>
+      <guid>http://localhost:1313/ja/project/touchscreen/</guid>
       <description>&lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
 &lt;p&gt;タッチスクリーン操作におけるスワイプ操作において、指の動きに対する画面の動きを変更することで、ユーザーの注意を画面上の特定の項目に誘導します。&lt;/p&gt;
 &lt;p&gt;この操作は、類似したコンテンツのリストビューにおいて、操作のあったコンテンツの方が操作のないコンテンツよりも記憶されやすいことを示しています。&lt;/p&gt;
@@ -463,9 +463,9 @@ In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
     
     <item>
       <title>Magic Table</title>
-      <link>https://tkrtkr.com/ja/project/magic_table/</link>
+      <link>http://localhost:1313/ja/project/magic_table/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/magic_table/</guid>
+      <guid>http://localhost:1313/ja/project/magic_table/</guid>
       <description>&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
 &lt;p&gt;external_link: &amp;quot;&amp;quot;&lt;/p&gt;
 &lt;p&gt;image:
@@ -482,9 +482,9 @@ focal_point: Smart&lt;/p&gt;
     
     <item>
       <title>Rubik&#39;s Cube Solver</title>
-      <link>https://tkrtkr.com/ja/project/rubikcube/</link>
+      <link>http://localhost:1313/ja/project/rubikcube/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/ja/project/rubikcube/</guid>
+      <guid>http://localhost:1313/ja/project/rubikcube/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Created in an project (class) of the Department of Mechanical and Information Engineering, Faculty of Engineering.&lt;/p&gt;
 &lt;p&gt;It uses two webcams to recognize the initial state of a Rubik&amp;rsquo;s cube and derives a solution using an existing solver. The six arms are rotated according to the method to complete the Rubik&amp;rsquo;s Cube.&lt;/p&gt;

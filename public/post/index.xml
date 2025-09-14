@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Takeru Hashimoto Web Page</title>
-    <link>https://tkrtkr.com/post/</link>
-      <atom:link href="https://tkrtkr.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>Blog</title>
-      <link>https://tkrtkr.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>🏆️ SIGGRAPH Asia 2024でBest Demo in Show Awardを受賞しました！</title>
-      <link>https://tkrtkr.com/post/siggraph/</link>
+      <link>http://localhost:1313/post/siggraph/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/siggraph/</guid>
+      <guid>http://localhost:1313/post/siggraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆️ INTERBEE x DCEXPO 2024でSIGGRAPH Special Prize AwardとNEDO賞をダブル受賞しました！</title>
-      <link>https://tkrtkr.com/post/interbee/</link>
+      <link>http://localhost:1313/post/interbee/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/interbee/</guid>
+      <guid>http://localhost:1313/post/interbee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👤 Sony Computer Science Laboratories のプロジェクト研究員になりました！</title>
-      <link>https://tkrtkr.com/post/sonycsl/</link>
+      <link>http://localhost:1313/post/sonycsl/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/sonycsl/</guid>
+      <guid>http://localhost:1313/post/sonycsl/</guid>
       <description>&lt;p&gt;所属はSonyCSLですが、勤務先はOISTです。
 それに伴い、拠点を沖縄県に移動しました。
 沖縄の地でモリモリ研究していきます！
@@ -42,9 +42,9 @@
     
     <item>
       <title>📄 博士論文が情報処理学会の研究会推薦博士論文にノミネートされました！</title>
-      <link>https://tkrtkr.com/post/johosyori/</link>
+      <link>http://localhost:1313/post/johosyori/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/johosyori/</guid>
+      <guid>http://localhost:1313/post/johosyori/</guid>
       <description>&lt;h2 id=&#34;簡単な解説記事&#34;&gt;簡単な解説記事&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://note.com/ipsj/n/n2d3b470ce5f4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://note.com/ipsj/n/n2d3b470ce5f4&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -52,25 +52,25 @@
     
     <item>
       <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
-      <link>https://tkrtkr.com/post/tvrsj2024/</link>
+      <link>http://localhost:1313/post/tvrsj2024/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/tvrsj2024/</guid>
+      <guid>http://localhost:1313/post/tvrsj2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👤 東京大学 葛岡鳴海研究室の特任助教になりました！</title>
-      <link>https://tkrtkr.com/post/utokyo/</link>
+      <link>http://localhost:1313/post/utokyo/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/utokyo/</guid>
+      <guid>http://localhost:1313/post/utokyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎓 博士（情報理工学）を取得しました！</title>
-      <link>https://tkrtkr.com/post/phd/</link>
+      <link>http://localhost:1313/post/phd/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://tkrtkr.com/post/phd/</guid>
+      <guid>http://localhost:1313/post/phd/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT | 橋本 健</title>
-    <link>https://tkrtkr.com/ja/tags/iot/</link>
-      <atom:link href="https://tkrtkr.com/ja/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ja/tags/iot/</link>
+      <atom:link href="http://localhost:1313/ja/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>IoT</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Wed, 28 Mar 2018 12:35:52 +0900</lastBuildDate>
     <image>
-      <url>https://tkrtkr.com/media/icon_hu2543640972845664531.png</url>
+      <url>http://localhost:1313/media/icon_hu2543640972845664531.png</url>
       <title>IoT</title>
-      <link>https://tkrtkr.com/ja/tags/iot/</link>
+      <link>http://localhost:1313/ja/tags/iot/</link>
     </image>
     
     <item>
       <title>スマートコントローラー</title>
-      <link>https://tkrtkr.com/ja/project/smart_controller/</link>
+      <link>http://localhost:1313/ja/project/smart_controller/</link>
       <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
-      <guid>https://tkrtkr.com/ja/project/smart_controller/</guid>
+      <guid>http://localhost:1313/ja/project/smart_controller/</guid>
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt;（日本の有名なメッセンジャーアプリ）を使用して、どこからでも家電を制御できるシステムです。&lt;/p&gt;
 &lt;h1 id=&#34;システム&#34;&gt;システム&lt;/h1&gt;
