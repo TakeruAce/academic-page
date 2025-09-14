@@ -24,10 +24,10 @@ sections:
         color: black
         image:
           # 背景画像を`assets/media/`に追加してください。
-          filename: stacked-peaks.svg
-          # filename: /img/somatoshift/featured1.png
+          # filename: stacked-peaks.svg
+          filename: /img/somatoshift/featured1.png
           filters:
-            brightness: 0.5
+            brightness: 0.2
             blur: 0.2
           size: cover
           position: center
@@ -37,9 +37,10 @@ sections:
       title: 'Vision  -- Beyond Physicality --'
       subtitle: ''
       text: |-
-        従来、私たちの肉体は私たち自身の知覚、認知、能力の境界を定義してきました。テクノロジーが進歩するにつれ、これら固定されていた境界を超えることができるようになりつつあります。
-        Beyond Physicalityは、人間の身体を静的で生物学的な「モノ」としてではなく、世界と相互作用するための動的でカスタマイズ可能なインターフェースとして再構想する方法を探求します。
-        このパラダイムでは、身体は拡張、再形成、さらには「交換」さえ可能なものとなり、私たちの物理的な存在とアイデンティティの本質に問いかけ、自己の再構築を迫るものになるでしょう。
+        自己の肉体という物理性(Physicality)は我々がこの世界に生きていることを感じさせる非常に重要な要素でありながら、それは同時に私たち自身の知覚、認知、能力の境界を決めるものでもありました。
+        一方で、テクノロジーが進歩するにつれ、これら固定されていた境界を超えることができるようになりつつあります。
+        Beyond Physicalityは、人間の身体を静的で生物学的な「モノ」としてではなく、世界と相互作用するための動的でカスタマイズ可能なインターフェースとして拡張・再構想する方法を探求します。
+        このパラダイムでは、身体は拡張、再形成、さらには「交換」さえ可能なものとなり、私たちの物理的な存在とアイデンティティのつながりに問いかけ、自己の再構築を迫るものになるかもしれません。
   # - block: collection
   #   id: featured_project
   #   content:

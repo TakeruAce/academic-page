@@ -30,6 +30,20 @@
                 href="https://tkrtkr.com/event/"
                 />
   </url><url>
+    <loc>https://tkrtkr.com/project/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/project/"
+                />
+  </url><url>
     <loc>https://tkrtkr.com/publication/inoue-2025-br/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,20 +312,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://tkrtkr.com/publication/hashimoto-2024-dl/"
-                />
-  </url><url>
-    <loc>https://tkrtkr.com/project/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/project/"
                 />
   </url><url>
     <loc>https://tkrtkr.com/tags/research/</loc>

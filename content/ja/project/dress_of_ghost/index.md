@@ -1,6 +1,6 @@
 ---
-title: Dress of Ghost
-summary: The sand that plays with hand.
+title: 生の装い
+summary: 手と戯れる砂
 tags:
 - art
 date: "2018-10-27T00:00:00"
@@ -29,22 +29,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-# Concept
-Do you feel the "Ghosts" in these inorganic particles?
+# 生の装い
+この無機質な粒子に「生」を感じるだろうか。
 
-Since ancient times, Japanese people have believed that all things have ghost in them.
-Listen to the voice of things and be grateful for their benefits.
-These beliefs were born because people and things have spun a close relationship.
-However, with the development of technology, people became arrogant, and the "ghost" in things was forgotten.
-Especially now that intelligence has been given to all things, human beings are becoming a one-sided subjective relationship with the side that commands and the side that commands things.
-Such a apathetic relationship even makes things feel bothersome.
-When you listen to the voices of things and think about the feelings of things, it's the first time that things have life.
+古くから日本では万物に命が宿ると信じられてきた。モノの声に耳を傾け、その恩恵に感謝する。ヒトとモノが密接な関係を紡いできたからこそ、こうした信仰は生まれた。しかし、いつしか技術の発展とともにヒトは傲慢になり、モノの「生」は忘れ去られた。特にあらゆるモノに知能が与えられるようになった今では、ヒトは命令する側・モノは命令される側と、一方的な主従関係を結びつつある。こうした機械的な関係はモノに煩わしささえ感じさせる。モノの声に耳を傾け、モノの気持ちに想いを馳せるとき、はじめてモノに「生」が宿るのではないだろうか。 
 
-This work breaks down the relationship between people and things and depicts a world where "ghost" dwells in things.
-Particles that behave in an inorganic manner.
-If you work diligently and face it, "ghost" will come to reside in the particles and speak to your heart.
+この作品では、ヒトとモノの関係を壊し、モノに「生」が宿る世界を描く。無機質にふるまう粒子。あなたが真摯に向き合い働きかければ、粒子に「生」は宿りきっとあなたの心に語りかけてくるはず。
 
-Dress of Ghost reestablishes a relationship between you and things.
+生の装いはあなたとモノの関係を再構築する。
+
 # About
 Produced by Takeru Hashimoto and Masato Nomiyama(Takram)
 
@@ -63,4 +56,4 @@ A matrix of electromagnets and analog control of each electromagnet made it poss
 In this work, 60 hand-wound electromagnets were used.
 
 # Media
-[<font color='blue'>Tansei: UTokyo's Official Magazine</font>](https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html) vol.38 special episode "Art of the University of Tokyo" 2019.03
+[<font color='blue'>東京大学広報誌　淡青</font>](https://www.u-tokyo.ac.jp/content/400110616.pdf) vol.38 特集 "東大のアート、アートの東大。" 2019.03

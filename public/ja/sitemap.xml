@@ -30,6 +30,20 @@
                 href="https://tkrtkr.com/ja/event/"
                 />
   </url><url>
+    <loc>https://tkrtkr.com/ja/project/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/project/"
+                />
+  </url><url>
     <loc>https://tkrtkr.com/ja/post/shonan_seminar/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -370,20 +384,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/project/selfrionette/"
-                />
-  </url><url>
-    <loc>https://tkrtkr.com/ja/project/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/project/"
                 />
   </url><url>
     <loc>https://tkrtkr.com/ja/post/sonycsl/</loc>
@@ -950,20 +950,6 @@
                 href="https://tkrtkr.com/ja/tags/art/"
                 />
   </url><url>
-    <loc>https://tkrtkr.com/ja/project/dress_of_ghost/</loc>
-    <lastmod>2018-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tkrtkr.com/project/dress_of_ghost/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tkrtkr.com/ja/project/dress_of_ghost/"
-                />
-  </url><url>
     <loc>https://tkrtkr.com/ja/project/voltex/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -976,6 +962,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://tkrtkr.com/ja/project/voltex/"
+                />
+  </url><url>
+    <loc>https://tkrtkr.com/ja/project/dress_of_ghost/</loc>
+    <lastmod>2018-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tkrtkr.com/project/dress_of_ghost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tkrtkr.com/ja/project/dress_of_ghost/"
                 />
   </url><url>
     <loc>https://tkrtkr.com/ja/publication/qiao-ben-2018-js/</loc>
