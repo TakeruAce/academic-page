@@ -1,0 +1,18 @@
+---
+title: 'Move Like an Ammonite: Personalizing Force Feedback for Avatar Embodiment
+  in Virtual Reality'
+authors:
+- Shun Kondoh
+- Takeru Hashimoto
+- Takuji Narumi
+date: '2025-01-01'
+publishDate: '2025-12-05T02:57:25.292458Z'
+publication_types:
+- paper-conference
+publication: '*2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*'
+doi: 10.1109/ISMAR67309.2025.00098
+tags:
+- Viscosity;Training;Visualization;Avatars;Virtual environments;Motors;Haptic interfaces;Bayes
+  methods;Regression analysis;Optimization;virtual reality;avatar;haptic feedback;sense
+  of body ownership;bayesian optimization
+---
