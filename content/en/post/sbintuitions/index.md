@@ -1,6 +1,6 @@
 ---
-title: 👤 SB Intuitions の Research Scientist になりました！
-summary: 2026年4月より、SB Intuitions に Research Scientist として参画しました。
+title: 👤 Joined SB Intuitions as a Research Scientist!
+summary: As of April 2026, I joined SB Intuitions as a Research Scientist.
 date: 2026-04-01
 authors:
   - admin
@@ -10,13 +10,11 @@ image:
   caption: 
 ---
 
-2026年4月1日付で、**SB Intuitions** に **Research Scientist** として参画しました。
+As of April 1, 2026, I have joined **SB Intuitions** as a **Research Scientist**.
 
-直前まで在籍していた **ソニーCSL** での1年半は、本当にかけがえのない時間でした。
-これまで自分が積み上げてきた身体・力覚インタフェースの軸を保ちつつ、AIとの統合や、人間の認知・自己観に踏み込む研究へと、少し違う角度から挑戦させてもらえた経験は、自分の研究観そのものを大きく広げてくれました。
-受け入れてくださった笠原さんをはじめ、Cybernetic Humanity Lab の皆さま、そしてOISTで一緒に過ごしてくださった皆さまには、本当に感謝しています。
+The 1.5 years I spent at **Sony CSL** right before this move were truly invaluable. While keeping my long-standing focus on body and haptic interfaces, I was given the chance to step into research that integrates with AI and probes human cognition and self-perception — an experience that meaningfully widened my view of what research can be.
+I'm deeply grateful to Shun Kasahara for taking me in, to everyone in the Cybernetic Humanity Lab, and to the OIST community I shared time with.
 
-SB Intuitions では、これまでの身体・HCI のバックグラウンドを活かしつつ、基盤モデルやAIと人間との関わりという新しい領域にも踏み込んでいきたいと考えています。
-身体性・物理性に閉じない地平から、これまでとは違う角度で「人と機械の融合」を追求していきます。
+At SB Intuitions, I want to bring my background in body / HCI to bear on a new domain: foundation models and the relationship between humans and AI. I aim to pursue "the integration of humans and machines" from an angle that isn't bounded by physicality alone.
 
-これからもどうぞよろしくお願いいたします 🙏
+Thanks as always for your support going forward 🙏

@@ -1,11 +1,10 @@
 ---
 title: Haptic Avatar
-summary: 身体の「質感」がアバタに応じて変わる ― ISMAR 2025発表
+summary: A body whose physical "feel" changes with the avatar — published at ISMAR 2025
 tags:
 - research
 date: "2025-09-14T00:00:00Z"
 
-# プロジェクトの外部URL（プロジェクト詳細ページの代わりに使用）
 external_link: ""
 featured: true
 draft: false
@@ -13,38 +12,32 @@ draft: false
 image:
   caption: 
   focal_point: Smart
-
-# スライド（オプション）
-#   このプロジェクトに関連するMarkdownスライドを指定
-#   拡張子なしでスライドデッキのファイル名を入力
-#   例：`slides = "example-slides"`は`content/slides/example-slides.md`を参照
-#   スライドがない場合は`slides = ""`と設定
 ---
 
-# 関連論文
-本プロジェクトの成果は、ISMAR 2025 で発表されました。
+# Related Publication
+This project's outcome was presented at ISMAR 2025.
 
 > **[Move Like an Ammonite: Personalizing Force Feedback for Avatar Embodiment in Virtual Reality](https://doi.org/10.1109/ISMAR67309.2025.00098)**
 > Shun Kondoh, Takeru Hashimoto, Takuji Narumi
 > *2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), pp. 899–909*
 
-# コンセプト：力覚アバター
-力覚提示技術の進歩により、物体に触れる感覚や道具を握る感覚などの力覚体験をバーチャルリアリティで表現することが可能になりました。これまで力覚技術は、人間と物理世界との相互作用のシミュレーションに広く用いられてきました。
+# Concept: Haptic Avatar
+Advances in haptic display technology now let us recreate experiences such as touching objects or holding tools inside virtual reality. Until now, haptic technology has been used mostly to simulate the interaction between a human and the physical world.
 
-一方で、VR技術により、自分とは異なる特徴をもつアバターを自身の身体として操作することが可能になりつつあります。アバターの外見だけでなく、固有受容感覚（内部的な身体感覚）まで変化させることで、まったく新しい身体への変容感を生み出すことができるのではないでしょうか？
+In parallel, VR has made it possible to inhabit avatars whose body characteristics differ from our own. By altering not only an avatar's appearance but also the wearer's proprioception (the internal sense of one's body), we can begin to evoke the feeling of transforming into an entirely new body.
 
-私たちの目標は、人間の物理的な身体の限界を超えた体験を作り出すことです。
+Our goal is to create experiences that go beyond the physical limits of the human body.
 
-# 身体運動再構成 ― 「アンモナイトのように動く」
-ISMAR 2025 で発表した本研究では、ユーザがアンモナイトのように人間とは大きく異なる体型のアバターに変身したときに、その身体らしい運動感覚を生み出す力覚フィードバックの設計を行いました。
+# Body Movement Reconstruction — "Move Like an Ammonite"
+In our ISMAR 2025 paper, we designed force feedback that produces motion sensations matching an avatar whose form differs sharply from the human body — like an ammonite.
 
-実験では、人間の身体構造から徐々に離れていく **4種類のアバター** （通常の人型 → ロボット型 → 異形型 → アンモナイト型）を用意し、それぞれの身体性に応じた力覚フィードバックを設計しました。
-{{<figure src="4avatars.png" id="4avatars" caption="実験で用いた4つのアバター。人間の身体構造から徐々に離れていく順に並んでいる。">}}
+In the experiment, we prepared **four avatars** whose body structures gradually depart from a typical human form (standard human → robotic → non-human → ammonite), and designed force feedback tailored to the embodiment of each.
+{{<figure src="4avatars.png" id="4avatars" caption="The four avatars used in our experiment, ordered from human-like to ammonite-like.">}}
 
-ユーザーの動きに戦略的なタイミングで力覚を介入させることで、外部から力を加えられているのではなく「自身の身体の物理特性が変わった」という感覚を引き起こします。私たちはこの身体感覚と運動感覚の関係の変化を **身体運動再構成（Body Movement Reconstruction）** と呼んでいます。実装には、物体の静的特性を力情報として表現するインピーダンス制御を応用しました。
+By injecting force feedback at strategically chosen moments during a user's movement, we evoke the perception that the user's *own* body has changed its physical properties — rather than that an external force is being applied. We call this change in the relationship between body sensation and movement **Body Movement Reconstruction**. Internally, this is implemented by reusing impedance control, which represents the static properties of objects as force information.
 
-さらに本論文では、各ユーザにとって最適な没入体験となるよう、ベイズ最適化により力覚パラメータを個別にチューニングする手法（Personalized Force Feedback）を提案しました。これにより、人とは異なる身体への所有感（sense of body ownership）をより強く生起させることができます。
+Building on this, the paper proposes **Personalized Force Feedback**: a method that uses Bayesian optimization to tune force feedback parameters per user, so that the embodiment experience converges to each individual's most immersive setting. This makes the **sense of body ownership** of the non-human body markedly stronger.
 {{<figure src="media/img/somatoshift/heavy_light.png" id="heavy_light">}}
 
-# ハードウェア
-使用している身体装着型の力提示装置については、以下のページで紹介しています。
+# Hardware
+The wearable force-feedback device used in this project is introduced on a separate page.
