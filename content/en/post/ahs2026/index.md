@@ -1,6 +1,6 @@
 ---
-title: 🏝️ AHs 2026 を Local Arrangement Chair として運営しました！
-summary: 沖縄で開催された Augmented Humans 2026 にて、デモ会場の設営・会場デザイン・ロゴデザイン等を担当しました。
+title: 🏝️ Served as Local Arrangement Chair for AHs 2026!
+summary: At Augmented Humans 2026 in Okinawa, I led the demo-venue setup, on-site design, and logo / graphic design.
 date: 2026-03-19
 authors:
   - admin
@@ -12,21 +12,16 @@ image:
 include_content: true
 ---
 
-2026年3月16〜19日に沖縄で開催された **Augmented Humans International Conference 2026 (AHs 2026)** に、**Local Arrangement Chair** として運営に携わりました。
+I served as **Local Arrangement Chair** for the **Augmented Humans International Conference 2026 (AHs 2026)**, held in Okinawa from March 16–19, 2026.
 
-担当したのは、
+My responsibilities were focused on the parts that don't usually take the spotlight but quietly shape the on-site experience, including:
 
-- **デモ会場の設営** — 出展者一人一人と必要機材・電源・スペースを詰め、当日は会場でひたすら動き回っていました
-- **会場デザイン** — 来場者の動線、サイネージ、装飾等
-- **ロゴ / グラフィックデザイン** — 学会のビジュアルアイデンティティ周り
+- **Demo venue setup** — coordinating equipment, power, and floor space with each exhibitor, and running around the venue throughout the conference
+- **On-site design** — visitor flow, signage, and decoration
+- **Logo / graphic design** — the visual identity of the conference
 
-など、表に出にくいけれど学会の体験を支える部分を中心に。
+What struck me most after going through it was that a conference is built on a long stretch of **quiet, unglamorous, behind-the-scenes work**. Every desk arrangement, every cable run, every printed sign carries someone's judgment and effort behind it. As an attendee or speaker, I had taken all of that for granted — but now I have a renewed respect for the organizers who have done this in the past, making it look effortless.
 
-実際にやってみて感じたのは、学会というのは **準備期間の地道で目に見えない仕事の積み重ね** で成り立っているということでした。
-登壇者・参加者として参加していた頃には全く意識していなかった、机の配置一つ・配線一本・標識一枚の裏側にも、誰かの判断と手間がある。
-それを当たり前のように動かしている過去のオーガナイザの方々に、改めて頭が下がる思いでした。
+And there is no way one person could have pulled this off alone. I'm sincerely grateful to the faculty members and staff who ran it with me, to the vendors who responded to last-minute requests, and to every participant who came up to me on-site to say "this was fun." There were so many things I only learned by doing them — both the hard parts and the rewarding ones.
 
-そして、これだけのことを一人で回すのは到底無理で、共に運営してくださった先生方・スタッフの皆さま、無理な依頼にも応えてくれた業者の方々、そして当日「楽しかった」と声をかけてくださった参加者の皆さまに、心から感謝しています。
-やってみないと分からない大変さも、やってみないと分からない学びも、たくさんありました。
-
-今回 AHs に来てくださったすべての方、そして陰で支えてくださったすべての方に、本当にありがとうございました 🙏
+To everyone who came to AHs, and to everyone who supported it from behind the scenes, thank you so much 🙏
