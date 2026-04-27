@@ -14,6 +14,8 @@ sections:
       # 表示するユーザープロファイルを選択（`content/authors/`内のフォルダ名）
       username: admin
       text: ""
+      headings:
+        about: false
       # 自己紹介の下にコールトゥアクションボタンを表示しますか？（オプション）
       # button:
       #   text: 履歴書をダウンロード
