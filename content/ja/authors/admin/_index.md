@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: プロジェクト研究員
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SonyCSL "Cybernetic Humanity" Lab
-    url: https://shunichikasahara.com/
+  - name: SB Intuitions
+    url: https://www.sbintuitions.co.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -88,14 +88,22 @@ education:
       - Pythonによる応用AIと機械学習
       - ROSによるロボットプログラミングと制御システム
 work:
+  - position: Research Scientist
+    company_name: SB Intuitions
+    company_url: 'https://www.sbintuitions.co.jp/'
+    company_logo: ''
+    date_start: 2026-04-01
+    date_end: 
+    summary: |
+      基盤モデルおよび人間とAIの融合に関する研究。
   - position: プロジェクト研究員
     company_name: ソニーコンピュータサイエンス研究所
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 
+    date_end: 2026-03-31
     summary: |
-      [Cybernetic Humanity Lab](https://shunichikasahara.com/)で人間とAIの物理的な融合に関する研究を行っています。
+      [Cybernetic Humanity Lab](https://shunichikasahara.com/)で人間とAIの物理的な融合に関する研究を行っていました。
   - position: 特任助教
     company_name: 東京大学
     company_url: ''
@@ -249,4 +257,4 @@ awards:
 
 ## About Me
 
-橋本健は現在、ソニーCSLのプロジェクト研究員として勤務しています。東京大学でコンピュータサイエンス、ヒューマンコンピュータインタラクション、ロボット工学を学び，それらを統合してウェアラブルな力覚インタフェースの作製やそれが引き起こす知覚・認知の変容の研究を行っていました。2023年に博士（情報理工学）、2020年に修士（情報理工学）、2018年に学士（機械情報学）を東京大学から取得しています。受賞歴には日本バーチャルリアリティ学会学術奨励賞やSIGCHI Best Paper Honorable Mentions Award等があります。現在の研究分野は、力の入力や出力に着目した現実感の拡張や再構成の研究です。現実空間の物理性(Physicality)をいかに拡張・再構成していけるのかに興味があり、Beyond Physicalityというビジョンで研究に取り組んでいます。
+橋本健は現在、SB IntuitionsのResearch Scientistとして勤務しています。東京大学でコンピュータサイエンス、ヒューマンコンピュータインタラクション、ロボット工学を学び，それらを統合してウェアラブルな力覚インタフェースの作製やそれが引き起こす知覚・認知の変容の研究を行っていました。2023年に博士（情報理工学）、2020年に修士（情報理工学）、2018年に学士（機械情報学）を東京大学から取得しています。受賞歴には日本バーチャルリアリティ学会学術奨励賞やSIGCHI Best Paper Honorable Mentions Award等があります。現在の研究分野は、力の入力や出力に着目した現実感の拡張や再構成の研究です。現実空間の物理性(Physicality)をいかに拡張・再構成していけるのかに興味があり、Beyond Physicalityというビジョンで研究に取り組んでいます。

@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Project Researcher
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SonyCSL "Cybernetic Humanity" Lab
-    url: https://shunichikasahara.com/
+  - name: SB Intuitions
+    url: https://www.sbintuitions.co.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -88,12 +88,20 @@ education:
       - Applied AI and Machine Learning in Python
       - Robotics Programming and Control Systems with ROS
 work:
+  - position: Research Scientist
+    company_name: SB Intuitions
+    company_url: 'https://www.sbintuitions.co.jp/'
+    company_logo: ''
+    date_start: 2026-04-01
+    date_end: 
+    summary: |
+      Research on foundation models and human-AI integration.
   - position: Post-doc Researcher
     company_name: Sony Computer Science Laboratories
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 
+    date_end: 2026-03-31
     summary: |
       Research about human machine integration at [Cybernetic Humanity Lab](https://shunichikasahara.com/)
   - position: Project Assistant Professor
@@ -248,4 +256,4 @@ awards:
 
 ## About Me
 
-Takeru Hashimoto is currently a project researcher at the SonyCSL in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his Ph.D. in information science and technology, master’s degree in information science and technology and bachelor’s degree in mechano-informatics engineering from The University of Tokyo in 2023, 2020 and 2018 respectively. His awards include the Young Researcher’s Award from the virtual reality society of Japan and the Best Paper Honorable Mentions Award in SIGCHI. His current research area is Virtual / Augmented Reality of haptics and Human-Augmentation throght haptic feedback.
+Takeru Hashimoto is currently a Research Scientist at SB Intuitions in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his Ph.D. in information science and technology, master’s degree in information science and technology and bachelor’s degree in mechano-informatics engineering from The University of Tokyo in 2023, 2020 and 2018 respectively. His awards include the Young Researcher’s Award from the virtual reality society of Japan and the Best Paper Honorable Mentions Award in SIGCHI. His current research area is Virtual / Augmented Reality of haptics and Human-Augmentation throght haptic feedback.
