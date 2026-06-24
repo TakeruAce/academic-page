@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: slate
+
+
 
 # SEO
 marketing:
