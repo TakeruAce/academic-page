@@ -1,0 +1,10 @@
+{{- /* Embed an X (Twitter) post via the official widgets.js, without relying on oEmbed.
+       Usage: {{< tweet user="AceZeami" id="2069756881074348456" >}} */ -}}
+{{- $id := .Get "id" -}}
+{{- $user := .Get "user" | default "i" -}}
+<div class="tweet-embed" style="display:flex;justify-content:center;margin:1.5rem 0;">
+  <blockquote class="twitter-tweet" data-dnt="true" data-align="center" data-width="550">
+    <a href="https://twitter.com/{{ $user }}/status/{{ $id }}">Post by @{{ $user }} on X</a>
+  </blockquote>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
